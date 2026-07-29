@@ -2,13 +2,13 @@
 version = 1
 disableParticles = false
 byTypeReductions = {  }
-maxParticlesPerSheet = 16384
-particleRenderDistanceMultiplier = 1.0
-asynchronousTicking = true
+maxParticlesPerSheet = 3600
+particleRenderDistanceMultiplier = 0.7507697610294117
+asynchronousTicking = false
 cullingBlacklist = [  ]
-cullingBehavior = "AGGRESSIVE"
+cullingBehavior = "BOUNDING_BOX"
 reduceAllChance = 0.0
 reduceDecreasedChance = 0.0
 turnOffPotionParticlesV2 = [
-    "NONE"
+    "SELF"
 ]

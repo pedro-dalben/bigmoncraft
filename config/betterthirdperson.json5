@@ -1,6 +1,6 @@
 {
 	// Align player to camera on left & right clicks
-	"aimOnInteract": true,
+	"aimOnInteract": false,
 	// How long player will be aligned to camera after left & right clicks
 	"aimDuration": 40,
 	// Angle in degrees within the player will slightly follow camera yaw (while standing still)
@@ -10,7 +10,7 @@
 	// Completely remove third-person front view
 	"skipThirdPersonFrontView": false,
 	// How fast player changes movement direction in third-person
-	"playerRotationSpeed": 50,
+	"playerRotationSpeed": 45,
 	// How fast player pitch follows camera pitch in third-person
-	"pitchChangeSpeed": 65
+	"pitchChangeSpeed": 60
 }

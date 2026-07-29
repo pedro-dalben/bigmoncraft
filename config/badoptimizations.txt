@@ -14,7 +14,7 @@ lightmap_time_change_needed_for_update: 80
 
 # Whether the sky's color should be cached unless you're on a biome border.
 # Has no effect in Minecraft 1.21.11+ as the sky color was made data-driven.
-enable_sky_color_caching: true
+enable_sky_color_caching: false
 # How much the in-game time must change in ticks for the sky color to
 # be recalculated when not between biome borders. Higher values will result in
 # the sky updating less frequently, but slightly better performance.
@@ -45,7 +45,7 @@ enable_block_entity_renderer_caching: true
 # Whether entity flags should be cached instead of calling DataTracker.
 # Also removes the unnecessary thread lock in DataTracker.
 # Unneeded with Lithium. Has no effect in Minecraft 1.20.5+.
-enable_entity_flag_caching: true
+enable_entity_flag_caching: false
 # Whether we should avoid calling FOV calculations
 # if the FOV effect scale is zero.
 enable_remove_redundant_fov_calculations: true

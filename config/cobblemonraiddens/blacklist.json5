@@ -10,7 +10,6 @@
 	"held_items": [],
 	// List of blacklisted moves for the player in raid battles.
 	"moves": [
-		"assist",
 		"bestow",
 		"circlethrow",
 		"destinybond",
@@ -34,7 +33,6 @@
 		"simplebeam",
 		"skillswap",
 		"skydrop",
-		"sleeptalk",
 		"superfang",
 		"taunt",
 		"torment",

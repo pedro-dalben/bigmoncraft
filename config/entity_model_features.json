@@ -25,7 +25,7 @@
   "resetPlayerModelEachRender": true,
   "resetPlayerModelEachRender_v2": true,
   "onlyDebugRenderOnHover": false,
-  "enforceOptifineSubFoldersVariantOnly": false,
+  "enforceOptifineSubFoldersVariantOnly": true,
   "enforceOptiFineAnimSyntaxLimits": true,
   "allowOptifineFallbackProperties": true,
   "showReloadErrorToast": true,

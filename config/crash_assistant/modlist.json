@@ -125,6 +125,14 @@
     "curseForgeHash": 3676693953,
     "modrinthHash": "c6cfd92af694102ee52ff1069f05804c75c0da7b"
   },
+  "c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar": {
+    "jarName": "c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar",
+    "modId": "c2me",
+    "name": "Concurrent Chunk Management Engine",
+    "version": "0.4.0-alpha.0.23+1.21.1",
+    "curseForgeHash": 2856075293,
+    "modrinthHash": "3a0a64877ba57d1f1198c7c6805719581859337d"
+  },
   "capturexp-fabric-1.7.3-1.3.0.jar": {
     "jarName": "capturexp-fabric-1.7.3-1.3.0.jar",
     "modId": "capture_xp",
@@ -701,6 +709,14 @@
     "curseForgeHash": 1626291875,
     "modrinthHash": "5624eea73f251c70a9489192d326f9b4aab3b13c"
   },
+  "MobsBeGone-0.0.7.jar": {
+    "jarName": "MobsBeGone-0.0.7.jar",
+    "modId": "mobsbegone",
+    "name": "MobsBeGone",
+    "version": "0.0.7",
+    "curseForgeHash": 4243365802,
+    "modrinthHash": "6335518bd5ebce9734669f5ed5fb0df3e7ceabb4"
+  },
   "modernfix-fabric-5.25.1+mc1.21.1.jar": {
     "jarName": "modernfix-fabric-5.25.1+mc1.21.1.jar",
     "modId": "modernfix",
@@ -1116,6 +1132,14 @@
     "version": "1.1.1-1.20",
     "curseForgeHash": 2716477075,
     "modrinthHash": "de704792c691e3d19316c87c21c9ad2bee6c66c3"
+  },
+  "VirtualLoot-fabric-0.3.jar": {
+    "jarName": "VirtualLoot-fabric-0.3.jar",
+    "modId": "virtualloot",
+    "name": "Cobblemon Virtual Loot",
+    "version": "0.3",
+    "curseForgeHash": 2447544487,
+    "modrinthHash": "7ff42f9257aadb052b38ab8772dd4ee8abad0486"
   },
   "voicechat-fabric-1.21.1-2.6.21.jar": {
     "jarName": "voicechat-fabric-1.21.1-2.6.21.jar",

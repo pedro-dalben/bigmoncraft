@@ -76,9 +76,6 @@ enableCooldowns = false
 # Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
 enableCosts = false
 
-# Set to false to disable durability loss on warp stones.
-enableDurability = true
-
 # Set to true to enable warp modifier items for applying status effects on teleports.
 enableModifiers = false
 
@@ -112,7 +109,7 @@ chunksBetweenWildWaystones = 25
 nameGenerationMode = "PRESET_FIRST"
 
 # These names will be used for the PRESET name generation mode. See the nameGenerationMode option for more info.
-nameGenerationPresets = [  ]
+nameGenerationPresets = []
 
 # The template to use when generating new names. Supported placeholders are {Biome} (english biome name) and {MrPork} (the default name generator).
 nameGenerationTemplate = "{Biome}"
@@ -124,7 +121,7 @@ spawnInVillages = "REGULAR"
 wildWaystoneStyle = "BIOME"
 
 # List of dimensions that wild waystones are allowed to spawn in. If left empty, all dimensions except those in wildWaystonesDimensionDenyList will be able to spawn waystones, provided the biomes are in the `has_structure/waystone` tag.
-wildWaystonesDimensionAllowList = [ "minecraft:the_nether", "minecraft:the_end", "minecraft:overworld" ]
+wildWaystonesDimensionAllowList = [ "minecraft:the_end", "minecraft:overworld", "minecraft:the_nether" ]
 
 # List of dimensions that wild waystones are not allowed to spawn in, even if the biome is in the `has_structure/waystone` tag. Only used if wildWaystonesDimensionAllowList is empty.
 wildWaystonesDimensionDenyList = [  ]

@@ -1,6 +1,6 @@
 {
   "blinds": {
-    "searchRadius": 6,
+    "searchRadius": 8,
     "opensFromRoot": true
   },
   "houses": {

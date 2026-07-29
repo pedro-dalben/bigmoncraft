@@ -9,9 +9,9 @@
 	#List of blocks that are not allowed to connect to backpacks - e.g. "refinedstorage:external_storage"
 	noConnectionBlocks = []
 	#Maximum number of upgrades of type per backpack in format of "UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
-	maxUpgradesPerStorage = ["furnace_upgrades|1", "stack_upgrades|3", "jukebox_upgrades|1"]
+	maxUpgradesPerStorage = ["stack_upgrades|3", "jukebox_upgrades|1", "furnace_upgrades|1"]
 	#Turns on/off item fluid handler of backpack in its item form. There are some dupe bugs caused by default fluid handling implementation that manifest when backpack is drained / filled in its item form in another mod's tank and the only way to prevent them is disallowing drain/fill in item form altogether
-	itemFluidHandlerEnabled = true
+	itemFluidHandlerEnabled = false
 	#Determines whether player can right click on backpack that another player is wearing to open it. If off will turn off that capability for everyone and remove related settings from backpack.
 	allowOpeningOtherPlayerBackpacks = true
 	#Allows disabling item display settings. Primarily in cases where custom backpack model doesn't support showing the item. (Requires game restart to take effect)
@@ -48,22 +48,22 @@
 		#Number of inventory slots in the backpack
 		# Default: 54
 		# Range: 1 ~ 144
-		inventorySlotCount = 54
+		inventorySlotCount = 81
 		#Number of upgrade slots in the backpack
 		# Default: 2
 		# Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 7
 
 	#Gold Backpack Settings
 	[server.goldBackpack]
 		#Number of inventory slots in the backpack
 		# Default: 81
 		# Range: 1 ~ 144
-		inventorySlotCount = 81
+		inventorySlotCount = 96
 		#Number of upgrade slots in the backpack
 		# Default: 3
 		# Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 8
 
 	#Diamond Backpack Settings
 	[server.diamondBackpack]
@@ -74,7 +74,7 @@
 		#Number of upgrade slots in the backpack
 		# Default: 5
 		# Range: 0 ~ 10
-		upgradeSlotCount = 5
+		upgradeSlotCount = 9
 
 	#Netherite Backpack Settings
 	[server.netheriteBackpack]
@@ -85,7 +85,7 @@
 		#Number of upgrade slots in the backpack
 		# Default: 7
 		# Range: 0 ~ 10
-		upgradeSlotCount = 7
+		upgradeSlotCount = 10
 
 	#Compacting Upgrade Settings
 	[server.compactingUpgrade]
@@ -497,31 +497,31 @@
 		#Chance of an entity spawning with Backpack
 		# Default: 0.01
 		# Range: 0.0 ~ 1.0
-		chance = 0.01
+		chance = 0.0
 		#Turns on/off addition of loot into backpacks
 		addLoot = true
 		#Turns on/off buffing the entity that wears backpack with potion effects. These are scaled based on how much loot is added.
-		buffWithPotionEffects = true
+		buffWithPotionEffects = false
 		#Turns on/off buffing the entity that wears backpack with additional health. Health is scaled based on backpack tier the mob wears.
-		buffHealth = true
+		buffHealth = false
 		#Turns on/off equiping the entity that wears backpack with armor. What armor material and how enchanted is scaled based on backpack tier the mob wears.
-		equipWithArmor = true
+		equipWithArmor = false
 		#Map of entities that can spawn with backpack and related loot tables (if adding a loot is enabled) in format of "EntityRegistryName|LootTableName"
-		entityLootTableList = ["minecraft:creeper|minecraft:chests/desert_pyramid", "minecraft:drowned|minecraft:chests/shipwreck_treasure", "minecraft:enderman|minecraft:chests/end_city_treasure", "minecraft:evoker|minecraft:chests/woodland_mansion", "minecraft:husk|minecraft:chests/desert_pyramid", "minecraft:piglin|minecraft:chests/bastion_bridge", "minecraft:piglin_brute|minecraft:chests/bastion_treasure", "minecraft:pillager|minecraft:chests/pillager_outpost", "minecraft:skeleton|minecraft:chests/simple_dungeon", "minecraft:stray|minecraft:chests/igloo_chest", "minecraft:vex|minecraft:chests/woodland_mansion", "minecraft:vindicator|minecraft:chests/woodland_mansion", "minecraft:witch|minecraft:chests/buried_treasure", "minecraft:wither_skeleton|minecraft:chests/nether_bridge", "minecraft:zombie|minecraft:chests/simple_dungeon", "minecraft:zombie_villager|minecraft:chests/village/village_armorer", "minecraft:zombified_piglin|minecraft:chests/bastion_other"]
+		entityLootTableList = []
 		#List of music discs that are not supposed to be played by entities
-		discBlockList = ["botania:record_gaia_1", "botania:record_gaia_2"]
+		discBlockList = []
 		#Turns on/off a chance that the entity that wears backpack gets jukebox upgrade and plays a music disc.
-		playJukebox = true
+		playJukebox = false
 		#Determines whether backpack drops to fake players if killed by them in addition to real ones that it always drops to
 		dropToFakePlayers = false
 		#Chance of mob dropping backpack when killed by player
 		# Default: 0.5
 		# Range: 0.0 ~ 1.0
-		backpackDropChance = 0.5
+		backpackDropChance = 0.0
 		#Chance increase per looting level of mob dropping backpack
 		# Default: 0.15
 		# Range: 0.0 ~ 0.3
-		lootingChanceIncreasePerLevel = 0.15
+		lootingChanceIncreasePerLevel = 0.0
 
 	[server.nerfs]
 		#Determines if too many backpacks in player's inventory cause slowness to the player
