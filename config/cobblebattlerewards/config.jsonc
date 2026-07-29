@@ -1,0 +1,148 @@
+/* CONFIG_SECTION
+ *  CobbleBattleRewards Configuration
+ * 
+ * Use /cobblebattlerewards gui to edit rewards in-game.
+ * Manual edits are supported; keep JSON syntax valid and run /cobblebattlerewards reload.
+ * Reward types: 'item' uses a JSON ItemStack string, 'command' runs a server command.
+ * Placeholders: %player%, %pokemon%, %level%, %battleType%, %chance%, %coords%, %trigger%, %time%.
+ * Version: 2.0.7
+ * Last updated: 2026-07-28T21:58:49.441297338
+ */
+{
+  // DO NOT EDIT - Version tracking for config migrations
+  "version": "2.0.7",
+  // DO NOT EDIT - Unique identifier for this config file
+  "configId": "cobblebattlerewards",
+  // Set to true for detailed logging (helps troubleshooting)
+  "debugEnabled": false,
+  // What happens when a player's inventory is full: 'drop' or 'skip'
+  "inventoryFullBehavior": "drop",
+  // Named rewards given when a player wins a battle
+  "battleWonRewards": {
+    "battle_won_money": {
+      "type": "command",
+      "message": "<green>You received $100 for winning against %pokemon%.</green>",
+      "command": "eco deposit 100 dollars %player%",
+      "itemStack": "",
+      "chance": 100.0,
+      "cooldown": 0,
+      "cooldownMessage": "",
+      "battleTypes": [
+        "wild",
+        "npc",
+        "pvp"
+      ],
+      "conditions": [],
+      "conditionsBlacklist": false,
+      "pokemonConditionsBlacklist": false,
+      "labelConditionsBlacklist": false,
+      "scannedConditionsBlacklist": false,
+      "disallowedLabels": [],
+      "exclusionConditions": [],
+      "rewardOutOfBattleCapture": false,
+      "rewardOutOfBattleKill": false,
+      "minLevel": 1,
+      "maxLevel": 100,
+      "order": 0,
+      "excludedRewards": [],
+      "allowedDimensions": []
+    },
+    "ghost_win_item": {
+      "type": "item",
+      "message": "<gold>You received a Ghost-type win item.</gold>",
+      "command": "",
+      "itemStack": "{\"id\":\"minecraft:emerald\",\"count\":1}",
+      "chance": 100.0,
+      "cooldown": 0,
+      "cooldownMessage": "",
+      "battleTypes": [
+        "wild"
+      ],
+      "conditions": [],
+      "conditionsBlacklist": false,
+      "pokemonConditionsBlacklist": false,
+      "labelConditionsBlacklist": false,
+      "scannedConditionsBlacklist": false,
+      "disallowedLabels": [],
+      "exclusionConditions": [
+        "type=ghost"
+      ],
+      "rewardOutOfBattleCapture": false,
+      "rewardOutOfBattleKill": false,
+      "minLevel": 1,
+      "maxLevel": 100,
+      "order": 0,
+      "excludedRewards": [],
+      "allowedDimensions": []
+    }
+  },
+  // Named rewards given when a player loses a battle
+  "battleLostRewards": {},
+  // Named rewards given when a player forfeits a battle
+  "battleForfeitRewards": {},
+  // Named rewards given when a player captures a Pokémon
+  "captureRewards": {
+    "capture_money": {
+      "type": "command",
+      "message": "<green>You received $50 for capturing %pokemon%.</green>",
+      "command": "eco deposit 50 dollars %player%",
+      "itemStack": "",
+      "chance": 100.0,
+      "cooldown": 0,
+      "cooldownMessage": "",
+      "battleTypes": [
+        "wild"
+      ],
+      "conditions": [],
+      "conditionsBlacklist": false,
+      "pokemonConditionsBlacklist": false,
+      "labelConditionsBlacklist": false,
+      "scannedConditionsBlacklist": false,
+      "disallowedLabels": [],
+      "exclusionConditions": [],
+      "rewardOutOfBattleCapture": false,
+      "rewardOutOfBattleKill": false,
+      "minLevel": 1,
+      "maxLevel": 100,
+      "order": 0,
+      "excludedRewards": [],
+      "allowedDimensions": []
+    },
+    "pikachu_capture_item": {
+      "type": "item",
+      "message": "<yellow>You received a Pikachu capture item.</yellow>",
+      "command": "",
+      "itemStack": "{\"id\":\"minecraft:diamond\",\"count\":1}",
+      "chance": 100.0,
+      "cooldown": 0,
+      "cooldownMessage": "",
+      "battleTypes": [
+        "wild"
+      ],
+      "conditions": [
+        "cobblemon:pikachu"
+      ],
+      "conditionsBlacklist": false,
+      "pokemonConditionsBlacklist": false,
+      "labelConditionsBlacklist": false,
+      "scannedConditionsBlacklist": false,
+      "disallowedLabels": [],
+      "exclusionConditions": [],
+      "rewardOutOfBattleCapture": false,
+      "rewardOutOfBattleKill": false,
+      "minLevel": 1,
+      "maxLevel": 100,
+      "order": 0,
+      "excludedRewards": [],
+      "allowedDimensions": []
+    }
+  }
+}
+/*
+ * ===========================================
+ *  End of CobbleBattleRewards Configuration
+ * ===========================================
+ * 
+ * For help and support: [https://discord.gg/nrENPTmQKt]
+ * END_CONFIG_SECTION
+ */

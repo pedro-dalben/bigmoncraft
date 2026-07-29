@@ -1,0 +1,73 @@
+{
+  "default_limit": 4,
+  "allow_stacking": false,
+  "max_stacked_limit": 16,
+  "prevent_bypass_creative": false,
+  "per_dimension_limits": {
+    "minecraft:the_nether": 2,
+    "minecraft:the_end": 2
+  },
+  "per_player_limits": {},
+  "rank_limits": [
+    {
+      "permission_node": "group.champion",
+      "limit": 16,
+      "pasture_blocks_limit": -1,
+      "label_limits": {
+        "legendary": 3,
+        "mythical": 3,
+        "paradox": 4
+      }
+    },
+    {
+      "permission_node": "group.ace_trainer",
+      "limit": 10,
+      "pasture_blocks_limit": 16,
+      "label_limits": {
+        "legendary": 2,
+        "mythical": 1
+      }
+    },
+    {
+      "permission_node": "group.trainer",
+      "limit": 6,
+      "pasture_blocks_limit": 12,
+      "label_limits": {}
+    },
+    {
+      "permission_node": "group.youngster",
+      "limit": 4,
+      "pasture_blocks_limit": 8,
+      "label_limits": {}
+    }
+  ],
+  "default_pasture_blocks_limit": 8,
+  "per_player_block_limits": {},
+  "notify_on_deny": true,
+  "deny_message": "§cYour pasture is full! (%current%/%max% Pokémon)",
+  "blacklist_deny_message": "§cYou cannot pasture %species%!",
+  "species_limit_deny_message": "§cYou already have %current% %species% in this pasture (max: %max%)!",
+  "label_limit_deny_message": "§cYou can only have %max% §e%label% §cPokémon in this pasture! (%current%/%max%)",
+  "block_limit_deny_message": "§cYou have reached your pasture block limit! (%current%/%max% blocks placed)",
+  "blacklisted_species": [
+    "smeargle"
+  ],
+  "blacklisted_labels": [
+    "legendary",
+    "mythical"
+  ],
+  "species_limits": [
+    {
+      "species": "ralts",
+      "max": 2
+    },
+    {
+      "species": "magikarp",
+      "max": 3
+    }
+  ],
+  "label_limits": {
+    "ultrabeast": 2,
+    "paradox": 2
+  }
+}

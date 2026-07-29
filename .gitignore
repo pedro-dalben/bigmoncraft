@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow the directory config/ and everything inside it
+!config/
+!config/**
+
+# Allow README.md
+!README.md
+
+# Allow .gitignore itself
+!.gitignore

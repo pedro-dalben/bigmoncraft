@@ -1,0 +1,44 @@
+{
+  "configVersion": "1.13.2",
+  "comment": [
+    "This config is common between server and client. It creates Discord webhooks for alerts.",
+    "Servers only reference this config for global alerts. Clients use this for every alert, if webhooks are enabled for the alert.",
+    "For details on using the config, please see the docs.",
+    "https://stainlessstasis.github.io/CSA-Docs/config/"
+  ],
+  "webhookURL": "YOUR WEBHOOK URL HERE",
+  "webhookContent": {
+    "content": "No message provided. This cannot be blank, unless your webhook has an embed(s).",
+    "username": "",
+    "avatarURL": "",
+    "tts": false,
+    "embeds": [
+      {
+        "enabled": true,
+        "title": "**A {shiny}{legendary}{HA}{bucket}{name} spawned in a {biome} biome!**",
+        "description": "**Dex Number**: #{dex}\\n**Level**: {level}\\n**IVs**: {ivs}\\n**EVs**: {evs}\\n**Nature**: {nature}\\n**Ability**: {ability}\\n**Gender**: {gender}\\n**Coordinates**: {coords}\\n**Nearest Player**: {nearest_player}",
+        "color": "",
+        "url": "",
+        "imageURL": "",
+        "thumbnailURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/{dex}.png",
+        "timestamp": false,
+        "author": {
+          "name": "",
+          "url": "",
+          "iconURL": ""
+        },
+        "fields": [
+          {
+            "name": "",
+            "value": "",
+            "inline": false
+          }
+        ],
+        "footer": {
+          "text": "",
+          "iconURL": ""
+        }
+      }
+    ]
+  }
+}
