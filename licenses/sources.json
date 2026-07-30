@@ -1,0 +1,1114 @@
+{
+  "advancementplaques": {
+    "name": "Advancement Plaques",
+    "licenseName": "Creative Commons CC-BY-NC-ND-4.0",
+    "spdx": "CC-BY-NC-ND-4.0",
+    "licenseUrl": "https://github.com/AHilyard/AdvancementPlaques/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "almanac": {
+    "name": "Almanac",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/frikinjay/almanac",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "badoptimizations": {
+    "name": "BadOptimizations",
+    "licenseName": "MIT",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/imthosea/BadOptimizations//blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "betterf3": {
+    "name": "BetterF3",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/TreyRuffy/BetterF3.git/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "betterthirdperson": {
+    "name": "Better Third Person",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://injected.coffee/",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "carved_wood": {
+    "name": "Carved Wood",
+    "licenseName": "Maker's Mods License",
+    "spdx": "Makers-Mods-License",
+    "licenseUrl": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "clumps": {
+    "name": "Clumps",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/jaredlll08/Clumps/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblefurnies": {
+    "name": "CobbleFurnies",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblefurnies",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblemon": {
+    "name": "Cobblemon",
+    "licenseName": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "licenseUrl": "https://gitlab.com/cable-mc/cobblemon/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "cobbreeding": {
+    "name": "Cobbreeding",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://gitlab.com/ludichat/Cobbreeding/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "controlling": {
+    "name": "Controlling",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/jaredlll08/controlling/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "crash_assistant": {
+    "name": "Crash Assistant",
+    "licenseName": "KostromDan’s Modded Minecraft License (Version 1.1.3)",
+    "spdx": "CUSTOM",
+    "licenseUrl": "https://github.com/KostromDan/Crash-Assistant/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "Debugify-1.21.1+1.0": {
+    "name": "Debugify",
+    "licenseName": "GPL-3.0",
+    "spdx": "GPL-3.0",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/debugify",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "forgeconfigapiport": {
+    "name": "Forge Config API Port",
+    "licenseName": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "licenseUrl": "https://github.com/Fuzss/forgeconfigapiport/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "highlighter": {
+    "name": "Highlighter",
+    "licenseName": "Creative Commons CC-BY-NC-ND-4.0",
+    "spdx": "CC-BY-NC-ND-4.0",
+    "licenseUrl": "https://github.com/AHilyard/Highlighter/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "iceberg": {
+    "name": "Iceberg",
+    "licenseName": "Creative Commons CC-BY-NC-ND-4.0",
+    "spdx": "CC-BY-NC-ND-4.0",
+    "licenseUrl": "https://github.com/AHilyard/Iceberg/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "immediatelyfast": {
+    "name": "ImmediatelyFast",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/RaphiMC/ImmediatelyFast/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "jade": {
+    "name": "Jade",
+    "licenseName": "Creative Commons CC-BY-NC-SA-4.0",
+    "spdx": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/Snownee/Jade/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cozyhome": {
+    "name": "Cozy Home",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "mobsbegone": {
+    "name": "MobsBeGone",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/mobsbegone",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "more_cobblemon_tweaks": {
+    "name": "MoreCobblemonTweaks",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://github.com/JustAHuman-xD/MoreCobblemonTweaks/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "mousetweaks": {
+    "name": "Mouse Tweaks",
+    "licenseName": "BSD 3-Clause License",
+    "spdx": "BSD-3-Clause",
+    "licenseUrl": "https://github.com/YaLTeR/MouseTweaks/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "naturescompass": {
+    "name": "Nature's Compass",
+    "licenseName": "Creative Commons CC-BY-NC-SA-4.0",
+    "spdx": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/MattCzyr/NaturesCompass/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "nochatreports": {
+    "name": "No Chat Reports",
+    "licenseName": "WTFPL",
+    "spdx": "WTFPL",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "openloader": {
+    "name": "OpenLoader",
+    "licenseName": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "licenseUrl": "https://github.com/Darkhax-Minecraft/Open-Loader/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "pingwheel": {
+    "name": "Ping Wheel",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/LukenSkyne/Minecraft-Ping-Wheel/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "safepastures": {
+    "name": "Safe Pastures",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-safepastures",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "scalablelux": {
+    "name": "ScalableLux",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/RelativityMC/ScalableLux/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "searchables": {
+    "name": "Searchables",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/jaredlll08/searchables/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "simpletms": {
+    "name": "SimpleTMs",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "TODO/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "virtualloot": {
+    "name": "Cobblemon Virtual Loot",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-virtual-loot",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "accelerateddecay": {
+    "name": "Accelerated Decay",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://github.com/Nanite/AcceleratedDecay/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "accessories": {
+    "name": "Accessories",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/wisp-forest/accessories/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "appleskin": {
+    "name": "AppleSkin",
+    "licenseName": "The Unlicense",
+    "spdx": "Unlicense",
+    "licenseUrl": "https://github.com/squeek502/AppleSkin/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "architectury": {
+    "name": "Architectury",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/architectury/architectury-api/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "athena": {
+    "name": "Athena",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/athena",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "balm": {
+    "name": "Balm",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/TwelveIterations/Balm/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "beautify": {
+    "name": "Beautify",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Suel-ki/Beautify-Refabricated/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "better_pokedex_scanner": {
+    "name": "Better Pokédex Scanner",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-better-pokedex-scanner",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "bookshelf": {
+    "name": "Bookshelf",
+    "licenseName": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "licenseUrl": "https://github.com/Darkhax-Minecraft/Bookshelf/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "c2me": {
+    "name": "Concurrent Chunk Management Engine",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/RelativityMC/C2ME-fabric/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "capture_xp": {
+    "name": "Cobblemon Capture XP",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/timinc-cobble/cobblemon-capture-xp/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "catchindicator": {
+    "name": "Catch Indicator",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/catch-indicator",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "catchrate-display": {
+    "name": "Cobblemon Catch Rate Display",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Akkiruk/catchrate-display/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "chipped": {
+    "name": "Chipped",
+    "licenseName": "Terrarium Licence",
+    "spdx": "Terrarium-1.0",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cloth-config": {
+    "name": "Cloth Config v15",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/shedaniel/ClothConfig/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "cobblebattlerewards": {
+    "name": "CobbleBattleRewards",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblebattlerewards",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "cobblecuisine": {
+    "name": "CobbleCuisine",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblecuisine",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobbleloots": {
+    "name": "Cobbleloots: Loot Balls and More!",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/ResistorCat/cobbleloots/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblemon-battle-extras": {
+    "name": "Cobblemon Battle Extras",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblemon_battle_tower": {
+    "name": "Cobblemon Battle Tower",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-battle-tower",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblemon_knowlogy": {
+    "name": "Cobblemon Knowlogy",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://gitlab.com/VinnyStalck/knowlogy/-/tree/cobblemon/main/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblemon_spawn_alerts": {
+    "name": "Cobblemon Spawn Alerts",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-alerts",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "cobblemonintegrations": {
+    "name": "CobblemonIntegrations",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-integrations",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblemonraiddens": {
+    "name": "Cobblemon Raid Dens",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemonraiddens",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblenav": {
+    "name": "Cobblenav",
+    "licenseName": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "licenseUrl": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobblerun": {
+    "name": "Cobblerun",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblerun",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "cobbleworkers": {
+    "name": "Cobbleworkers",
+    "licenseName": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "licenseUrl": "https://github.com/accieo/cobbleworkers/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "comforts": {
+    "name": "Comforts",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/illusivesoulworks/comforts/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "configurable": {
+    "name": "Configurable",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Bawnorton/Configurable/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "connectivity": {
+    "name": "Connectivity Mod",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "constructionwand": {
+    "name": "Construction Wand (Fabric)",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/JongWasTaken/ConstructionWand-Fabric/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "cupboard": {
+    "name": "cupboard",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "emberstextapi": {
+    "name": "Ember's Text API",
+    "licenseName": "TysonTheEmber Modding Licence",
+    "spdx": "TysonTheEmber-Custom",
+    "licenseUrl": "https://git.tysontheember.dev/TysonTheEmber/EmbersTextAPI/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "enchdesc": {
+    "name": "EnchantmentDescriptions",
+    "licenseName": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "licenseUrl": "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "entityculling": {
+    "name": "EntityCulling",
+    "licenseName": "tr7zw Protective License",
+    "spdx": "tr7zw-Protective",
+    "licenseUrl": "https://github.com/tr7zw/EntityCulling/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "everlastingutils": {
+    "name": "EverlastingUtils",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/e-utils",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "fabric-api": {
+    "name": "Fabric API",
+    "licenseName": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "licenseUrl": "https://github.com/FabricMC/fabric/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "fabric-language-kotlin": {
+    "name": "Fabric Language Kotlin",
+    "licenseName": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "licenseUrl": "https://github.com/FabricMC/fabric-language-kotlin/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "fancymenu": {
+    "name": "FancyMenu",
+    "licenseName": "DON'T SNATCH MA STUFF LICENSE v3 (DSMSLv3)",
+    "spdx": "DSMSL-3.0",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "ferritecore": {
+    "name": "FerriteCore",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "fightorflight": {
+    "name": "Cobblemon Fight or Flight Fabric",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "flickerfix": {
+    "name": "FlickerFix",
+    "licenseName": "Creative Commons Zero v1.0 Universal",
+    "spdx": "CC0-1.0",
+    "licenseUrl": "https://github.com/jeremiahwinsley/flickerfix-fabric/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "fusion": {
+    "name": "Fusion",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/SuperMartijn642/Fusion/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "fzzy_config": {
+    "name": "Fzzy Config",
+    "licenseName": "Timefall Development Licence - Modified 1.3",
+    "spdx": "Timefall-1.3",
+    "licenseUrl": "https://github.com/fzzyhmstrs/fconfig/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "geckolib": {
+    "name": "GeckoLib 4",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/bernie-g/geckolib/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "universal-graves": {
+    "name": "Universal Graves",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/Patbox/UniversalGraves/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "handcrafted": {
+    "name": "Handcrafted",
+    "licenseName": "Terrarium Licence",
+    "spdx": "Terrarium-1.0",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/handcrafted",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "iris": {
+    "name": "Iris",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/IrisShaders/Iris.git/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "ironfurnaces": {
+    "name": "Iron Furnaces",
+    "licenseName": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces-fabric-neoforge",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "jei": {
+    "name": "Just Enough Items",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/mezz/JustEnoughItems/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "journeymap": {
+    "name": "Journeymap",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "http://journeymap.info",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "knowlogy": {
+    "name": "Knowlogy Book",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://gitlab.com/VinnyStalck/knowlogy/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "konkrete": {
+    "name": "Konkrete",
+    "licenseName": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "krypton": {
+    "name": "Krypton",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/krypton",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "lavender": {
+    "name": "Lavender",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/wisp-forest/lavender/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "legendarymonuments": {
+    "name": "Legendary Monuments",
+    "licenseName": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "licenseUrl": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "letmedespawn": {
+    "name": "Let Me Despawn",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/frikinjay/let-me-despawn",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "lithium": {
+    "name": "Lithium",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/CaffeineMC/lithium-fabric/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "lithostitched": {
+    "name": "Lithostitched",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "lootr": {
+    "name": "Lootr",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/noobanidus/Lootr/tree/fabric-1.19.4/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "mega_showdown-fabric-1.9.3+1.7.3+1.21.1": {
+    "name": "Cobblemon: Mega Showdown",
+    "licenseName": "MIT",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "melody": {
+    "name": "Melody",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/melody",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "modernfix": {
+    "name": "ModernFix",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/embeddedt/ModernFix/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "modmenu": {
+    "name": "Mod Menu",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/TerraformersMC/ModMenu/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "moreconcrete": {
+    "name": "More Concrete",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://github.com/Autovw/MoreConcrete/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "musicnotification": {
+    "name": "MusicNotification",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/KosmoMoustache/MusicNotification/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "neruina": {
+    "name": "Neruina",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Bawnorton/Neruina/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "netherportalfix": {
+    "name": "NetherPortalFix",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/TwelveIterationMods/NetherPortalFix/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "notenoughanimations": {
+    "name": "NotEnoughAnimations",
+    "licenseName": "tr7zw Protective License",
+    "spdx": "tr7zw-Protective",
+    "licenseUrl": "https://github.com/tr7zw/NotEnoughAnimations/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "notenoughcrashes": {
+    "name": "Not Enough Crashes",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/natanfudge/Not-Enough-Crashes/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "owo": {
+    "name": "oωo",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/owo-lib",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "packetfixer": {
+    "name": "Packet Fixer",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "particlerain": {
+    "name": "Particle Rain",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/PigCart/particle-rain/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "particle_core": {
+    "name": "Particle Core",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/fzzyhmstrs/pc/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "pasture-loot": {
+    "name": "PastureLoot",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-pasture-loot",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "pasturelimit": {
+    "name": "PastureLimit",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-pasture-limit",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "placeholder-api": {
+    "name": "Placeholder API",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/Patbox/TextPlaceholderAPI/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "playerxp": {
+    "name": "PlayerXP",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-playerxp",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "pokeblocks": {
+    "name": "Pokeblocks",
+    "licenseName": "Creative Commons CC-BY-NC-4.0",
+    "spdx": "CC-BY-NC-4.0",
+    "licenseUrl": "https://github.com/Shawn11564/Pokeblocks/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "polymer-bundled": {
+    "name": "Polymer",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/Patbox/polymer/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "prickle": {
+    "name": "PrickleMC",
+    "licenseName": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "licenseUrl": "https://github.com/Darkhax-Minecraft/PrickleMC/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "quickbench": {
+    "name": "QuickBench",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Modflower/QuickBench/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "rctapi": {
+    "name": "Radical Cobblemon Trainers API",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/radical-cobblemon-trainers-api",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "rctmod": {
+    "name": "Radical Cobblemon Trainers",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/rctmod",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "rechiseled": {
+    "name": "Rechiseled",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/SuperMartijn642/Rechiseled/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "reeses-sodium-options": {
+    "name": "Reese's Sodium Options",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/FlashyReese/reeses-sodium-options.git/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "regions_unexplored": {
+    "name": "Regions Unexplored",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Apollounknowndev/RegionsUnexplored/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "releaserewards": {
+    "name": "Cobblemon: Parting Gifts",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/anabsolutesloth/cobblemonreleaserewards/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "resourcefullib": {
+    "name": "Resourceful Lib",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Team-Resourceful/ResourcefulLib/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "smoothchunk": {
+    "name": "Smooth chunk save Mod",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "sodium-extra": {
+    "name": "Sodium Extra",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/FlashyReese/sodium-extra-fabric/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "sodium": {
+    "name": "Sodium",
+    "licenseName": "PolyForm Shield License 1.0.0",
+    "spdx": "PolyForm-Shield-1.0.0",
+    "licenseUrl": "https://github.com/CaffeineMC/sodium/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "sophisticatedbackpacks": {
+    "name": "Sophisticated Backpacks",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://github.com/Salandora/SophisticatedBackpacks/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "sophisticatedcore": {
+    "name": "Sophisticated Core",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://github.com/P3pp3rF1y/SophisticatedCore/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "sophisticatedstorage": {
+    "name": "Sophisticated Storage",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://github.com/Salandora/SophisticatedStorage/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "spark": {
+    "name": "spark",
+    "licenseName": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "licenseUrl": "https://github.com/lucko/spark/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "supermartijn642configlib": {
+    "name": "SuperMartijn642's Config Lib",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "supermartijn642corelib": {
+    "name": "SuperMartijn642's Core Lib",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "talkingheads": {
+    "name": "Talking Heads",
+    "licenseName": "Creative Commons CC-BY-ND-4.0",
+    "spdx": "CC-BY-ND-4.0",
+    "licenseUrl": "https://github.com/ZipeStudio/talkingheads/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "tectonic": {
+    "name": "Tectonic",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/Apollounknowndev/tectonic/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "tim_core": {
+    "name": "Tim Core",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/timinc-cobble/cobblemon-tim-core/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "toms_storage": {
+    "name": "Tom's Simple Storage Mod",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/tom5454/Toms-Storage//blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "tooltipfix": {
+    "name": "ToolTip Fix",
+    "licenseName": "MIT License",
+    "spdx": "MIT",
+    "licenseUrl": "https://github.com/kyrptonaught/tooltipfix/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "voicechat": {
+    "name": "Simple Voice Chat",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/henkelmax/simple-voice-chat/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "waystones": {
+    "name": "Waystones",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://github.com/TwelveIterations/Waystones/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": true
+  },
+  "wild_battle_api": {
+    "name": "Wild Battle API",
+    "licenseName": "All Rights Reserved",
+    "spdx": "ARR",
+    "licenseUrl": "https://www.curseforge.com/minecraft/mc-mods/wild-battle-api",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "yet_another_config_lib_v3": {
+    "name": "YetAnotherConfigLib",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/isXander/YetAnotherConfigLib/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  },
+  "zoomify": {
+    "name": "Zoomify",
+    "licenseName": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "licenseUrl": "https://github.com/isXander/Zoomify/blob/main/LICENSE",
+    "confidence": "ALTA",
+    "foundInJar": false
+  }
+}

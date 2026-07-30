@@ -1,0 +1,18 @@
+{
+  "totalJars": 139,
+  "identified": 139,
+  "unknown": 0,
+  "conflicting": 0,
+  "publicModpackAllowed": 139,
+  "monetizedServerAllowed": 139,
+  "writtenPermissionRequired": 0,
+  "sourceDisclosureRequired": 42,
+  "criticalIssues": 7,
+  "typeBreakdown": {
+    "CREATIVE_COMMONS": 7,
+    "COPYLEFT": 42,
+    "PERMISSIVA": 61,
+    "ARR": 19,
+    "CUSTOMIZADA": 10
+  }
+}
