@@ -565,14 +565,6 @@
     "curseForgeHash": 1382600585,
     "modrinthHash": "e4e125088d8654f91562e78a00bdec22f74bc07f"
   },
-  "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar": {
-    "jarName": "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
-    "modId": "inventoryprofilesnext",
-    "name": "Inventory Profiles Next",
-    "version": "2.2.6",
-    "curseForgeHash": 3123169493,
-    "modrinthHash": "a99471cb13f2c3c355ab3a61483580ccfa0d3693"
-  },
   "iris-fabric-1.8.14-beta.1+mc1.21.1.jar": {
     "jarName": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
     "modId": "iris",

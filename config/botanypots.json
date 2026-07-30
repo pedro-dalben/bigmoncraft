@@ -8,7 +8,7 @@
           "value will make crops grow faster.                                              "
         ],
         "//default": 1.0,
-        "value": 0.20
+        "value": 0.2
       },
       "damage_harvest_tool": {
         "//": "Determines if the item in the harvest tool slot should take durability damage.",
