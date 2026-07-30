@@ -12,3 +12,15 @@
 - **Access Date**: 2026-07-30
 - **Confirmation Method**: Embedded metadata analysis & official CurseForge/GitHub records
 - **Confidence Level**: ALTA
+
+# Mega Showdown Authorization
+
+Permission granted for:
+
+- Use on the BigBangCraft monetized server
+- Inclusion in the public BigMonCraft: Cobblemon Pack
+- Distribution through CurseForge
+
+Date granted: 28/07/2026, 21:06
+Author or representative: "Lvantic, apparently"
+Ticket or conversation: https://discord.com/channels/1334216416617824386/1531802216057274602
