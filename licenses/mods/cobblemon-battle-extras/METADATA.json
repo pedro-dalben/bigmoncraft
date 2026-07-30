@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "cobblemon-battle-extras-fabric-1.13.45.jar",
+    "sha256": "099c3dafd5c7d29e8d91f954a9598565fdd07dac235bb9c49ab305d9af37f826",
+    "modId": "cobblemon-battle-extras",
+    "name": "Cobblemon Battle Extras",
+    "version": "1.13.45"
+  },
+  "authors": [
+    "Raguto & Yemagh"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1396525,
+    "fileId": 7968868,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://fabricmc.net/",
+    "repository": "https://github.com/FabricMC/fabric-example-mod",
+    "license": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "rctapi-fabric-1.21.1-0.15.2-beta.jar",
+    "sha256": "e5bd96b1b74aad41588acc078e7385ca72f66a862aae47adda3d55b44c1d5ba8",
+    "modId": "rctapi",
+    "name": "Radical Cobblemon Trainers API",
+    "version": "0.15.2-beta"
+  },
+  "authors": [
+    "HDainester"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1152792,
+    "fileId": 7952421,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/radical-cobblemon-trainers-api",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/radical-cobblemon-trainers-api"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

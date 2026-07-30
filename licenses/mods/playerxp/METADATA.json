@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "playerxp-fabric-1.0.9+1.21.1.jar",
+    "sha256": "22133f464ea4442b481d0bc814ab928b0473890a86bf36fa90884ed660e3edf9",
+    "modId": "playerxp",
+    "name": "PlayerXP",
+    "version": "1.0.9+1.21.1"
+  },
+  "authors": [
+    "chadlymasterson"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1261726,
+    "fileId": 7886106,
+    "allowModDistribution": false
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-playerxp",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-playerxp"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "CONDICIONAL",
+    "curseForgeDistribution": "NÃO",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod com allowModDistribution=False no CurseForge metadata."
+  ],
+  "status": "REVISÃO_MANUAL_NECESSÁRIA"
+}

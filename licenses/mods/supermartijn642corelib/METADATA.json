@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "supermartijn642corelib-1.1.22-fabric-mc1.21.jar",
+    "sha256": "8452befb7f78c55586ae8980f13abdcceef6c8b01d9efa767180f81e0a22e2f0",
+    "modId": "supermartijn642corelib",
+    "name": "SuperMartijn642's Core Lib",
+    "version": "1.1.22"
+  },
+  "authors": [
+    "SuperMartijn642"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 454372,
+    "fileId": 8526705,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+    "repository": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib",
+    "license": "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

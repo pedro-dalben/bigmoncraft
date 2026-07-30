@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "architectury-13.0.11-fabric.jar",
+    "sha256": "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd",
+    "modId": "architectury",
+    "name": "Architectury",
+    "version": "13.0.11"
+  },
+  "authors": [
+    "shedaniel"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 419699,
+    "fileId": 8492725,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://architectury.github.io/architectury-documentations/",
+    "repository": "https://github.com/architectury/architectury-api",
+    "license": "https://github.com/architectury/architectury-api/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

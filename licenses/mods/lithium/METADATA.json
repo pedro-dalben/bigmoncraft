@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "lithium-fabric-0.15.4+mc1.21.1.jar",
+    "sha256": "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa",
+    "modId": "lithium",
+    "name": "Lithium",
+    "version": "0.15.4+mc1.21.1"
+  },
+  "authors": [
+    "JellySquid",
+    "2No2Name"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 360438,
+    "fileId": 8330364,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://jellysquid.me/projects/",
+    "repository": "https://github.com/CaffeineMC/lithium-fabric",
+    "license": "https://github.com/CaffeineMC/lithium-fabric/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

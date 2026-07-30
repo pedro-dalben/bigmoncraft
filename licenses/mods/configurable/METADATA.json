@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "configurable-3.5.2+1.21.1-fabric.jar",
+    "sha256": "70f7728d67ff8c420a53ef3c08ec73732517882317ab20a084b273773aa1e5e2",
+    "modId": "configurable",
+    "name": "Configurable",
+    "version": "3.5.2"
+  },
+  "authors": [
+    "Bawnorton"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1092048,
+    "fileId": 8438543,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/Bawnorton/Configurable",
+    "repository": "https://github.com/Bawnorton/Configurable",
+    "license": "https://github.com/Bawnorton/Configurable/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

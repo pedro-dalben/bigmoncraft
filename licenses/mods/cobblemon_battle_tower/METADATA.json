@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "cobblemon_battle_tower-fabric-1.10.22.jar",
+    "sha256": "043ee6625cfdb796ee3c0d4210428fb2b93151d38a9fc97a1478488eb1f86f95",
+    "modId": "cobblemon_battle_tower",
+    "name": "Cobblemon Battle Tower",
+    "version": "1.10.22"
+  },
+  "authors": [
+    "Raguto & Yemagh"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1441260,
+    "fileId": 7957420,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-battle-tower",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-battle-tower"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

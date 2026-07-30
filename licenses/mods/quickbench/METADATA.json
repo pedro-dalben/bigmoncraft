@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "quickbench-4.4.2+mc.1.21.jar",
+    "sha256": "7af65a71a82f43fe7f672da0e11e8258cca0b14b5573a67bb329fb8da7ea1811",
+    "modId": "quickbench",
+    "name": "QuickBench",
+    "version": "4.4.2+mc.1.21"
+  },
+  "authors": [
+    "Ampflower",
+    "Tfarecnim",
+    "Shadows-of-Fire"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 914551,
+    "fileId": 5784135,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://mod.ampflower.gay/QuickBench",
+    "repository": "https://github.com/Modflower/QuickBench",
+    "license": "https://github.com/Modflower/QuickBench/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

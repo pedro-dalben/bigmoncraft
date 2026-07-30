@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "netherportalfix-fabric-1.21.1-21.1.3.jar",
+    "sha256": "c6589e3a95ee6dbced2442682caeec53789999bc6a2883f9919e039b1bee98c6",
+    "modId": "netherportalfix",
+    "name": "NetherPortalFix",
+    "version": "21.1.3"
+  },
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 241160,
+    "fileId": 6204047,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://mods.twelveiterations.com/mc/netherportalfix",
+    "repository": "https://github.com/TwelveIterationMods/NetherPortalFix",
+    "license": "https://github.com/TwelveIterationMods/NetherPortalFix/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

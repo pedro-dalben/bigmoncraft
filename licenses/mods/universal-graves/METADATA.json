@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "graves-3.4.4+1.21.jar",
+    "sha256": "3b46ddc0911b8bfc2ba6eabae03f7071afee8b5816a3f11104d7899073a023d3",
+    "modId": "universal-graves",
+    "name": "Universal Graves",
+    "version": "3.4.4+1.21"
+  },
+  "authors": [
+    "Patbox"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 497175,
+    "fileId": 5706180,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://pb4.eu",
+    "repository": "https://github.com/Patbox/UniversalGraves",
+    "license": "https://github.com/Patbox/UniversalGraves/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

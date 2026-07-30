@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
+    "sha256": "938954b20c8d01c689166eb58364a67e37a2771091ed628c17d9be459837114c",
+    "modId": "sophisticatedstorage",
+    "name": "Sophisticated Storage",
+    "version": "1.21.1-1.3.7.9.139"
+  },
+  "authors": [
+    "P3pp3rF1y",
+    "Ridanisaurus",
+    "Salandora"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 979326,
+    "fileId": 7344673,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-unofficial-fabric-port",
+    "repository": "https://github.com/Salandora/SophisticatedStorage",
+    "license": "https://github.com/Salandora/SophisticatedStorage/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

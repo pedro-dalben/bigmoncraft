@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "appleskin-fabric-mc1.21-3.0.6.jar",
+    "sha256": "9a19cec1294b1bc708392a08e6926dcb85d7378ec5ad909a4b6fcb8bc3bfeaa2",
+    "modId": "appleskin",
+    "name": "AppleSkin",
+    "version": "3.0.6+mc1.21"
+  },
+  "authors": [
+    "squeek502"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 248787,
+    "fileId": 5864741,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://minecraft.curseforge.com/projects/appleskin",
+    "repository": "https://github.com/squeek502/AppleSkin",
+    "license": "https://github.com/squeek502/AppleSkin/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "The Unlicense",
+    "spdx": "Unlicense",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "comforts-fabric-9.0.5+1.21.1.jar",
+    "sha256": "73ff17028967a2e30731ea79aee2e18dd8e2d59a5dcd075facd6491cae1b2231",
+    "modId": "comforts",
+    "name": "Comforts",
+    "version": "9.0.5+1.21.1"
+  },
+  "authors": [
+    "Illusive Soulworks"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 276951,
+    "fileId": 7515856,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+    "repository": "https://github.com/illusivesoulworks/comforts",
+    "license": "https://github.com/illusivesoulworks/comforts/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

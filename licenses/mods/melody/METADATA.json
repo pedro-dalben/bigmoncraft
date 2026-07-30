@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "melody_fabric_1.0.10_MC_1.21.jar",
+    "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+    "modId": "melody",
+    "name": "Melody",
+    "version": "1.0.10"
+  },
+  "authors": [
+    "Keksuccino"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 938643,
+    "fileId": 5430438,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/melody",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/melody"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "waystones-fabric-1.21.1-21.1.38.jar",
+    "sha256": "416be05e0961d673e3e819e40db203d730f15c2bd59045e9917f6a4941b053a5",
+    "modId": "waystones",
+    "name": "Waystones",
+    "version": "21.1.38"
+  },
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 245755,
+    "fileId": 8498217,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://mods.twelveiterations.com/minecraft/waystones",
+    "repository": "https://github.com/TwelveIterations/Waystones",
+    "license": "https://github.com/TwelveIterations/Waystones/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

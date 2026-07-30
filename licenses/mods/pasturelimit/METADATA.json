@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "pasturelimit-1.0.4.jar",
+    "sha256": "4fb486ae5fff9193df4cfa33be3394c328209925d8c81af1b0c47e76f0815421",
+    "modId": "pasturelimit",
+    "name": "PastureLimit",
+    "version": "1.0.4"
+  },
+  "authors": [
+    "zmoonmaru"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1551682,
+    "fileId": 8193650,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-pasture-limit",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-pasture-limit"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

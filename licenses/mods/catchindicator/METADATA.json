@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "catchindicator-fabric-1.8.1.jar",
+    "sha256": "f2fc8b3e006aac42f1d31c10acfe9e32f12a133bb24d0bc0f64114f3ba105659",
+    "modId": "catchindicator",
+    "name": "Catch Indicator",
+    "version": "1.8.1"
+  },
+  "authors": [
+    "OurStory x LevelsFR"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 1431831,
+    "fileId": 8536608,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/catch-indicator",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/catch-indicator"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

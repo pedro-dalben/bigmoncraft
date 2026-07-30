@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "SimpleTMs-fabric-2.3.3.jar",
+    "sha256": "c5baa07f405433f62218fc3916360d4cda37558d01d493df7a618ac7d78d22c1",
+    "modId": "simpletms",
+    "name": "SimpleTMs",
+    "version": "2.3.3"
+  },
+  "authors": [
+    "Dragomordor"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 959184,
+    "fileId": 7319642,
+    "allowModDistribution": false
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/simpletms-tms-and-trs-for-cobblemon",
+    "repository": "TODO",
+    "license": "TODO/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "CONDICIONAL",
+    "curseForgeDistribution": "NÃO",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod com allowModDistribution=False no CurseForge metadata."
+  ],
+  "status": "REVISÃO_MANUAL_NECESSÁRIA"
+}

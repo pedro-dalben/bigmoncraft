@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "resourcefullib-fabric-1.21-3.0.12.jar",
+    "sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
+    "modId": "resourcefullib",
+    "name": "Resourceful Lib",
+    "version": "3.0.12"
+  },
+  "authors": [
+    "ThatGravyBoat",
+    "Epic_Oreo"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 570073,
+    "fileId": 5973189,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://resourcefulbees.com",
+    "repository": "https://github.com/Team-Resourceful/ResourcefulLib",
+    "license": "https://github.com/Team-Resourceful/ResourcefulLib/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "mega_showdown-fabric-1.9.3+1.7.3+1.21.1.jar",
+    "sha256": "8cf740ab6585b2b6f047a5e7e87acb0c3b962745b5317876ead93e584ba60e97",
+    "modId": "mega_showdown-fabric-1.9.3+1.7.3+1.21.1",
+    "name": "Cobblemon: Mega Showdown",
+    "version": "None"
+  },
+  "authors": [
+    "yajatkaul"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 1189523,
+    "fileId": 8519043,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-mega-showdown"
+  },
+  "license": {
+    "name": "MIT",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Upstream repo (MIT License)",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Controlling-fabric-1.21.1-19.0.5.jar",
+    "sha256": "c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d",
+    "modId": "controlling",
+    "name": "Controlling",
+    "version": "19.0.5"
+  },
+  "authors": [
+    "Jaredlll08"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 250398,
+    "fileId": 6368974,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+    "repository": "https://github.com/jaredlll08/controlling",
+    "license": "https://github.com/jaredlll08/controlling/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

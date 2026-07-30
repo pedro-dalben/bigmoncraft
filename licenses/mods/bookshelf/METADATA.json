@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "bookshelf-fabric-1.21.1-21.1.81.jar",
+    "sha256": "df2dd3a3e75f2dbf56baf9bdb6cc0007f9c0efb0f2b2067f047ddf98ea1b49d8",
+    "modId": "bookshelf",
+    "name": "Bookshelf",
+    "version": "21.1.81"
+  },
+  "authors": [
+    "Darkhax"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 228525,
+    "fileId": 7606241,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+    "repository": "https://github.com/Darkhax-Minecraft/Bookshelf",
+    "license": "https://github.com/Darkhax-Minecraft/Bookshelf/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "type": "COPYLEFT",
+    "version": "2.1",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

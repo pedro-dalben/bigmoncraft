@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+    "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c",
+    "modId": "modernfix",
+    "name": "ModernFix",
+    "version": "5.25.1+mc1.21.1"
+  },
+  "authors": [
+    "embeddedt"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 790626,
+    "fileId": 7200210,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/modernfix",
+    "repository": "https://github.com/embeddedt/ModernFix",
+    "license": "https://github.com/embeddedt/ModernFix/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

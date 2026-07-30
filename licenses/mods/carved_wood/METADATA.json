@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Carved Wood-fabric-1.21.1-1.9.7-B.jar",
+    "sha256": "90b0784cd66b656343ec4b42c9e5562e92175f15ed91404a03a39e386a23847c",
+    "modId": "carved_wood",
+    "name": "Carved Wood",
+    "version": "1.9.7-B"
+  },
+  "authors": [
+    "Im_Maker"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1335174,
+    "fileId": 8444854,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://fabricmc.net/",
+    "repository": "https://github.com/FabricMC/fabric-example-mod",
+    "license": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Maker's Mods License",
+    "spdx": "Makers-Mods-License",
+    "type": "CUSTOMIZADA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "CONDICIONAL",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

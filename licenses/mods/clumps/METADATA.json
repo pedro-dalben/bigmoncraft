@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+    "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
+    "modId": "clumps",
+    "name": "Clumps",
+    "version": "19.0.0.1"
+  },
+  "authors": [
+    "Jared"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 256717,
+    "fileId": 5623729,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+    "repository": "https://github.com/jaredlll08/Clumps",
+    "license": "https://github.com/jaredlll08/Clumps/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

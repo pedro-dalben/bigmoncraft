@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "polymer-bundled-0.9.19+1.21.1.jar",
+    "sha256": "8c6bb7897bf53e3207a2ca4fc26db55471990b605855f494c2d80bfcabd1ed3b",
+    "modId": "polymer-bundled",
+    "name": "Polymer",
+    "version": "0.9.19+1.21.1"
+  },
+  "authors": [
+    "Patbox"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 551890,
+    "fileId": 7448053,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://pb4.eu",
+    "repository": "https://github.com/Patbox/polymer",
+    "license": "https://github.com/Patbox/polymer/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

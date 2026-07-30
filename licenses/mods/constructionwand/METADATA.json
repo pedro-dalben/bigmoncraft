@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "constructionwand-1.0.6+1.21.1.jar",
+    "sha256": "dc9f7ce2e469f926e3fafb3522360ba207603c54aac2ff41cad2e9b84ec56f92",
+    "modId": "constructionwand",
+    "name": "Construction Wand (Fabric)",
+    "version": "1.0.6"
+  },
+  "authors": [
+    "JongWasTaken",
+    "Theta-Dev"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1035665,
+    "fileId": 5676987,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/JongWasTaken/ConstructionWand-Fabric",
+    "repository": "https://github.com/JongWasTaken/ConstructionWand-Fabric",
+    "license": "https://github.com/JongWasTaken/ConstructionWand-Fabric/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

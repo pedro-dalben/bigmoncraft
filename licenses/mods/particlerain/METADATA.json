@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "particle-rain-3.0.5.jar",
+    "sha256": "4cc0ff16a6782ec4630ec4145b1999e86af58db1c253f75effb75e7d2569d851",
+    "modId": "particlerain",
+    "name": "Particle Rain",
+    "version": "3.0.5"
+  },
+  "authors": [
+    "PigCart"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 421897,
+    "fileId": 6015282,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/particle-rain",
+    "repository": "https://github.com/PigCart/particle-rain",
+    "license": "https://github.com/PigCart/particle-rain/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

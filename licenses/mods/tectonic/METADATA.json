@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "tectonic-3.0.26-fabric-21.1.jar",
+    "sha256": "6653be7cb1574e5973cde0a8cacb9d79d9e55a99bf7378937e0c47979b718b67",
+    "modId": "tectonic",
+    "name": "Tectonic",
+    "version": "3.0.26"
+  },
+  "authors": [
+    "Apollo"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 686836,
+    "fileId": 8360846,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/project/tectonic",
+    "repository": "https://github.com/Apollounknowndev/tectonic",
+    "license": "https://github.com/Apollounknowndev/tectonic/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

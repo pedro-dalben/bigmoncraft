@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "enchdesc-fabric-1.21.1-21.1.10.jar",
+    "sha256": "d4a721fcb5704f4a1a7f3d136b9122e802f214c03497a54d8f3e54cabdb806a8",
+    "modId": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "21.1.10"
+  },
+  "authors": [
+    "Darkhax"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 250419,
+    "fileId": 8240825,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+    "repository": "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions",
+    "license": "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "type": "COPYLEFT",
+    "version": "2.1",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

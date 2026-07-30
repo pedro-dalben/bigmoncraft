@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "voicechat-fabric-1.21.1-2.6.21.jar",
+    "sha256": "1f005d89cf9d4428594e134b50f17bd8c2ef4842d9644e3a2f617b90b4a2d0b8",
+    "modId": "voicechat",
+    "name": "Simple Voice Chat",
+    "version": "1.21.1-2.6.21"
+  },
+  "authors": [
+    "Max Henkel"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 416089,
+    "fileId": 8464103,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrepo.de/minecraft/voicechat/overview",
+    "repository": "https://github.com/henkelmax/simple-voice-chat",
+    "license": "https://github.com/henkelmax/simple-voice-chat/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

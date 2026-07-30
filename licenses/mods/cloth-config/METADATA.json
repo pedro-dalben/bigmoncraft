@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cloth-config-15.0.140-fabric.jar",
+    "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+    "modId": "cloth-config",
+    "name": "Cloth Config v15",
+    "version": "15.0.140"
+  },
+  "authors": [
+    "shedaniel"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 348521,
+    "fileId": 5729125,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://minecraft.curseforge.com/projects/cloth-config",
+    "repository": "https://github.com/shedaniel/ClothConfig",
+    "license": "https://github.com/shedaniel/ClothConfig/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

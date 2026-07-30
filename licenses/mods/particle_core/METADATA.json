@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "particle_core-0.3.3+1.21.jar",
+    "sha256": "e7cfef3eb16d5b73c00915a5f2b820d66555c23d13e0636125d7b07384a443e4",
+    "modId": "particle_core",
+    "name": "Particle Core",
+    "version": "0.3.3+1.21"
+  },
+  "authors": [
+    "fzzyhmstrs"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 985426,
+    "fileId": 7581173,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/particle-core",
+    "repository": "https://github.com/fzzyhmstrs/pc",
+    "license": "https://github.com/fzzyhmstrs/pc/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

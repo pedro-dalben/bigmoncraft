@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "MouseTweaks-fabric-mc1.21-2.26.jar",
+    "sha256": "3e9fa4800fafef616fbf1545d62f5898f55c83fbd4126ce2b48b5e0077243fc0",
+    "modId": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.26"
+  },
+  "authors": [
+    "Ivan Molodetskikh (YaLTeR)"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 60089,
+    "fileId": 5437294,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+    "repository": "https://github.com/YaLTeR/MouseTweaks",
+    "license": "https://github.com/YaLTeR/MouseTweaks/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "BSD 3-Clause License",
+    "spdx": "BSD-3-Clause",
+    "type": "PERMISSIVA",
+    "version": "3-clause",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

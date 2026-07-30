@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "fabric-api-0.116.15+1.21.1.jar",
+    "sha256": "a61a10f730ab8aa45ff42486ee65699e6e51c28a0c168deb161e7d4029473aa3",
+    "modId": "fabric-api",
+    "name": "Fabric API",
+    "version": "0.116.15+1.21.1"
+  },
+  "authors": [
+    "FabricMC"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 306612,
+    "fileId": 8525495,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://fabricmc.net",
+    "repository": "https://github.com/FabricMC/fabric",
+    "license": "https://github.com/FabricMC/fabric/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "type": "PERMISSIVA",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

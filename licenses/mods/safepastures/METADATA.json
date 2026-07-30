@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "SafePastures-1.1.1+1.21.1.jar",
+    "sha256": "41d1c286db3e02a3249346a5efda6f95799ab895aa40c03a87cdcd81a95e4b45",
+    "modId": "safepastures",
+    "name": "Safe Pastures",
+    "version": "1.1.1+1.21.1"
+  },
+  "authors": [
+    "chadlymasterson"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1248185,
+    "fileId": 7248017,
+    "allowModDistribution": false
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-safepastures",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-safepastures"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "CONDICIONAL",
+    "curseForgeDistribution": "NÃO",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod com allowModDistribution=False no CurseForge metadata."
+  ],
+  "status": "REVISÃO_MANUAL_NECESSÁRIA"
+}

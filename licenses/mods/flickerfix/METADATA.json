@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "flickerfix-1.21.1-fabric-6.1.0.jar",
+    "sha256": "f36879ba366b702b5c1368bb88bdaec45fd1e16864cc43f7d3af02475535a74c",
+    "modId": "flickerfix",
+    "name": "FlickerFix",
+    "version": "6.1.0"
+  },
+  "authors": [
+    "Me!"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 431430,
+    "fileId": 7413106,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://fabricmc.net/",
+    "repository": "https://github.com/jeremiahwinsley/flickerfix-fabric",
+    "license": "https://github.com/jeremiahwinsley/flickerfix-fabric/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx": "CC0-1.0",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

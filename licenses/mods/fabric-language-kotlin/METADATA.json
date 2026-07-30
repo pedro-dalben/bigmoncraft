@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+    "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
+    "modId": "fabric-language-kotlin",
+    "name": "Fabric Language Kotlin",
+    "version": "1.13.13+kotlin.2.4.10"
+  },
+  "authors": [
+    "FabricMC"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 308769,
+    "fileId": 8439967,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://minecraft.curseforge.com/projects/fabric-language-kotlin",
+    "repository": "https://github.com/FabricMC/fabric-language-kotlin",
+    "license": "https://github.com/FabricMC/fabric-language-kotlin/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "type": "PERMISSIVA",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

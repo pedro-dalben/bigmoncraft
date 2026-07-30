@@ -1,0 +1,55 @@
+{
+  "artifact": {
+    "jar": "chipped-fabric-1.21.1-4.0.2.jar",
+    "sha256": "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
+    "modId": "chipped",
+    "name": "Chipped",
+    "version": "4.0.2"
+  },
+  "authors": [
+    "Alex Nijjar",
+    "Grimbop",
+    "Kekie6",
+    "ThatGravyBoat"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 456956,
+    "fileId": 5813118,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/chipped"
+  },
+  "license": {
+    "name": "Terrarium Licence",
+    "spdx": "Terrarium-1.0",
+    "type": "CUSTOMIZADA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "CONDICIONAL",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

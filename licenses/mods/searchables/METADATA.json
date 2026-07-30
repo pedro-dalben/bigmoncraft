@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Searchables-fabric-1.21.1-1.0.2.jar",
+    "sha256": "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76",
+    "modId": "searchables",
+    "name": "Searchables",
+    "version": "1.0.2"
+  },
+  "authors": [
+    "Jaredlll08"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 858542,
+    "fileId": 5831690,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+    "repository": "https://github.com/jaredlll08/searchables",
+    "license": "https://github.com/jaredlll08/searchables/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "talking-heads-1.1.3+1.21.1+fabric.jar",
+    "sha256": "8b8ccb302ff6ae08524c4e07bac06226e6f3fafa851925150a50e319838f6e87",
+    "modId": "talkingheads",
+    "name": "Talking Heads",
+    "version": "1.1.3+1.21.1+fabric"
+  },
+  "authors": [
+    "ZipeStudio"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1108100,
+    "fileId": 8409679,
+    "allowModDistribution": false
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/talkingheads",
+    "repository": "https://github.com/ZipeStudio/talkingheads",
+    "license": "https://github.com/ZipeStudio/talkingheads/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Creative Commons CC-BY-ND-4.0",
+    "spdx": "CC-BY-ND-4.0",
+    "type": "CREATIVE_COMMONS",
+    "version": "4.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "CONDICIONAL",
+    "curseForgeDistribution": "NÃO",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod com allowModDistribution=False no CurseForge metadata."
+  ],
+  "status": "REVISÃO_MANUAL_NECESSÁRIA"
+}

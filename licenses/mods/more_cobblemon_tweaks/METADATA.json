@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "MoreCobblemonTweaks-fabric-1.3.3.jar",
+    "sha256": "8adee1d12c9dd86626e5472d6e1bbcb70b08ed62fea5bdd09db9180cc8411cae",
+    "modId": "more_cobblemon_tweaks",
+    "name": "MoreCobblemonTweaks",
+    "version": "1.3.3"
+  },
+  "authors": [
+    "JustAHuman"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1082538,
+    "fileId": 7593364,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/more-cobblemon-tweaks",
+    "repository": "https://github.com/JustAHuman-xD/MoreCobblemonTweaks",
+    "license": "https://github.com/JustAHuman-xD/MoreCobblemonTweaks/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

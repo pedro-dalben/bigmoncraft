@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Jade-1.21.1-Fabric-15.10.5.jar",
+    "sha256": "b78e8f6e0e3d0148ae3b042c484d11bc5c53a81fbe71a9dcbc750338f4dce386",
+    "modId": "jade",
+    "name": "Jade",
+    "version": "15.10.5+fabric"
+  },
+  "authors": [
+    "Snownee"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 324717,
+    "fileId": 7545228,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/jade",
+    "repository": "https://github.com/Snownee/Jade",
+    "license": "https://github.com/Snownee/Jade/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Creative Commons CC-BY-NC-SA-4.0",
+    "spdx": "CC-BY-NC-SA-4.0",
+    "type": "CREATIVE_COMMONS",
+    "version": "4.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

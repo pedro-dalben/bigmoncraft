@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "BadOptimizations-2.4.1-1.21.1.jar",
+    "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
+    "modId": "badoptimizations",
+    "name": "BadOptimizations",
+    "version": "2.4.1"
+  },
+  "authors": [
+    "Thosea"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 949555,
+    "fileId": 7338300,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/badoptimizations/",
+    "repository": "https://github.com/imthosea/BadOptimizations/",
+    "license": "https://github.com/imthosea/BadOptimizations//blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "2.0",
+    "source": "Embedded metadata / upstream repo (MIT License)",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

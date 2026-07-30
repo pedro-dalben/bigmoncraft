@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "accelerated-decay-fabric-21.0.0.jar",
+    "sha256": "7b2c896f717544a69fe078ce40c9ab6adf7818e924524f6c8661096414097284",
+    "modId": "accelerateddecay",
+    "name": "Accelerated Decay",
+    "version": "21.0.0"
+  },
+  "authors": [
+    "ErrorMikey"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 699872,
+    "fileId": 5433035,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/Nanite/AcceleratedDecay",
+    "repository": "https://github.com/Nanite/AcceleratedDecay",
+    "license": "https://github.com/Nanite/AcceleratedDecay/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

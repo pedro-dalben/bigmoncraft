@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "prickle-fabric-1.21.1-21.1.11.jar",
+    "sha256": "d6d639078aecb72770f287d8253e4634114e2536ac9a2ad6ec5f442eb27dd07f",
+    "modId": "prickle",
+    "name": "PrickleMC",
+    "version": "21.1.11"
+  },
+  "authors": [
+    "Darkhax"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1023259,
+    "fileId": 6961454,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/prickle",
+    "repository": "https://github.com/Darkhax-Minecraft/PrickleMC",
+    "license": "https://github.com/Darkhax-Minecraft/PrickleMC/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "type": "COPYLEFT",
+    "version": "2.1",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

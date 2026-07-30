@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "regions-unexplored-0.6.2-fabric-21.1.jar",
+    "sha256": "c0c2f1a83cbdc1f252255823e33230ace9db6f5fd6da010a739f46f7a6d3a6a7",
+    "modId": "regions_unexplored",
+    "name": "Regions Unexplored",
+    "version": "0.6.2"
+  },
+  "authors": [
+    "Apollo",
+    "UHQ_Games"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 659110,
+    "fileId": 8419666,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/regions-unexplored",
+    "repository": "https://github.com/Apollounknowndev/RegionsUnexplored",
+    "license": "https://github.com/Apollounknowndev/RegionsUnexplored/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

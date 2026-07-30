@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "spark-1.10.109-fabric.jar",
+    "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
+    "modId": "spark",
+    "name": "spark",
+    "version": "1.10.109"
+  },
+  "authors": [
+    "Luck"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 361579,
+    "fileId": 5759670,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://spark.lucko.me/",
+    "repository": "https://github.com/lucko/spark",
+    "license": "https://github.com/lucko/spark/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

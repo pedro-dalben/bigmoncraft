@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cobbleworkers-fabric-2.0.5+1.7.0.jar",
+    "sha256": "63f0b2a4be6295e5aa55171091a809808ad7e06aaeb5fa956d07b72c0078897d",
+    "modId": "cobbleworkers",
+    "name": "Cobbleworkers",
+    "version": "2.0.5+1.7.0"
+  },
+  "authors": [
+    "Accieo"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1296055,
+    "fileId": 8353204,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobbleworkers",
+    "repository": "https://github.com/accieo/cobbleworkers",
+    "license": "https://github.com/accieo/cobbleworkers/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "type": "COPYLEFT",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

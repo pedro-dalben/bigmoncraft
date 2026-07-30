@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "entityculling-fabric-1.10.5-mc1.21.1.jar",
+    "sha256": "cfb5491f5ed9609784cf3d6a926bef046ca80cb74c7856e6134335d7d0ce839e",
+    "modId": "entityculling",
+    "name": "EntityCulling",
+    "version": "1.10.5"
+  },
+  "authors": [
+    "tr7zw"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 448233,
+    "fileId": 8287094,
+    "allowModDistribution": false
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/entityculling",
+    "repository": "https://github.com/tr7zw/EntityCulling",
+    "license": "https://github.com/tr7zw/EntityCulling/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "tr7zw Protective License",
+    "spdx": "tr7zw-Protective",
+    "type": "CUSTOMIZADA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "NÃO",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "tr7zw Protective License permite modpacks no CurseForge/Modrinth via canais oficiais; proibe espelhos e redistribuicao direta de JAR."
+  ],
+  "status": "APROVADO"
+}

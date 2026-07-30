@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "cobblenav-fabric-2.3.3.jar",
+    "sha256": "e66eb486f5cfbeef2215910193eba0000c191bbf774fa59f3e0b955ce13cae45",
+    "modId": "cobblenav",
+    "name": "Cobblenav",
+    "version": "2.3.3"
+  },
+  "authors": [
+    "gatekeep06"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 976014,
+    "fileId": 7940648,
+    "allowModDistribution": false
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-pokenav",
+    "repository": "https://github.com/FabricMC/fabric-example-mod",
+    "license": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "type": "COPYLEFT",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "CONDICIONAL",
+    "curseForgeDistribution": "NÃO",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod com allowModDistribution=False no CurseForge metadata."
+  ],
+  "status": "REVISÃO_MANUAL_NECESSÁRIA"
+}

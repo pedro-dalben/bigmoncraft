@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+    "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1",
+    "modId": "yet_another_config_lib_v3",
+    "name": "YetAnotherConfigLib",
+    "version": "3.8.2+1.21.1-fabric"
+  },
+  "authors": [
+    "isXander"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 667299,
+    "fileId": 7437855,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://isxander.dev",
+    "repository": "https://github.com/isXander/YetAnotherConfigLib",
+    "license": "https://github.com/isXander/YetAnotherConfigLib/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
+    "sha256": "dda6cc159edd450d05b9ff15832747b951dacd068c601018c219bca833ce5bef",
+    "modId": "advancementplaques",
+    "name": "Advancement Plaques",
+    "version": "1.6.8"
+  },
+  "authors": [
+    "Grend"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 514882,
+    "fileId": 5905997,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://anthonyhilyard.com/",
+    "repository": "https://github.com/AHilyard/AdvancementPlaques",
+    "license": "https://github.com/AHilyard/AdvancementPlaques/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Creative Commons CC-BY-NC-ND-4.0",
+    "spdx": "CC-BY-NC-ND-4.0",
+    "type": "CREATIVE_COMMONS",
+    "version": "4.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

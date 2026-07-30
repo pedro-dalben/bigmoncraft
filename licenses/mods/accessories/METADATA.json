@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+    "sha256": "51e6f6d52cb2523199ad36e5bc04802230f86904c35ac3dbf36e59c86b2c30d1",
+    "modId": "accessories",
+    "name": "Accessories",
+    "version": "1.1.0-beta.53+1.21.1"
+  },
+  "authors": [
+    "Blodhgarm",
+    "chyzman",
+    "Dr.Zeal"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 938917,
+    "fileId": 7583323,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://wispforest.io/",
+    "repository": "https://github.com/wisp-forest/accessories",
+    "license": "https://github.com/wisp-forest/accessories/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

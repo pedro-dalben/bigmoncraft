@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "letmedespawn-1.21.x-fabric-1.5.0.jar",
+    "sha256": "abeac43f78a915cfa0c855fa945f07601a1509064079c4c8640c7105ba6ac554",
+    "modId": "letmedespawn",
+    "name": "Let Me Despawn",
+    "version": "1.5.0"
+  },
+  "authors": [
+    "frikinjay"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 663477,
+    "fileId": 6311233,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/frikinjay/let-me-despawn",
+    "repository": "",
+    "license": "https://github.com/frikinjay/let-me-despawn"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

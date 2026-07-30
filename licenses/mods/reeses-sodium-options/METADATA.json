@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "reeses-sodium-options-fabric-2.2.3+mc1.21.1.jar",
+    "sha256": "6f5a2964656552da24e015b6f6e03d4baac8cfed919978785e94920f3fd0f568",
+    "modId": "reeses-sodium-options",
+    "name": "Reese's Sodium Options",
+    "version": "2.2.3+mc1.21.1"
+  },
+  "authors": [
+    "FlashyReese"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 511319,
+    "fileId": 8410879,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/FlashyReese/reeses-sodium-options",
+    "repository": "https://github.com/FlashyReese/reeses-sodium-options.git",
+    "license": "https://github.com/FlashyReese/reeses-sodium-options.git/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "OpenLoader-fabric-1.21.1-21.1.5.jar",
+    "sha256": "95b48a53035f1b7193916b8202637a582d6680ebdcdb0ce6a0c6c0427a443483",
+    "modId": "openloader",
+    "name": "OpenLoader",
+    "version": "21.1.5"
+  },
+  "authors": [
+    "Darkhax"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 354339,
+    "fileId": 6546291,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/open-loader",
+    "repository": "https://github.com/Darkhax-Minecraft/Open-Loader",
+    "license": "https://github.com/Darkhax-Minecraft/Open-Loader/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx": "LGPL-2.1-only",
+    "type": "COPYLEFT",
+    "version": "2.1",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

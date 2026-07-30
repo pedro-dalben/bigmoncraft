@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "knowlogy-fabric-0.9.1-1.21.1.jar",
+    "sha256": "35737c0c002efacfcf27a98a26795200682167be993766c8fcdd7c997d43b6ca",
+    "modId": "knowlogy",
+    "name": "Knowlogy Book",
+    "version": "0.9.1"
+  },
+  "authors": [
+    "VinnyStalck"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 944409,
+    "fileId": 6749574,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/knowlogy",
+    "repository": "https://gitlab.com/VinnyStalck/knowlogy",
+    "license": "https://gitlab.com/VinnyStalck/knowlogy/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

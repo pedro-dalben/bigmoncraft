@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cobblemon_knowlogy-fabric-1.6.0-beta.1-1.21.1.jar",
+    "sha256": "c067845ad346f301eb872251c2d16421fdc083e63ce6e1fc07012cd1731f2eb5",
+    "modId": "cobblemon_knowlogy",
+    "name": "Cobblemon Knowlogy",
+    "version": "1.6.0-beta.1"
+  },
+  "authors": [
+    "VinnyStalck"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1144644,
+    "fileId": 7814590,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-knowlogy",
+    "repository": "https://gitlab.com/VinnyStalck/knowlogy/-/tree/cobblemon/main",
+    "license": "https://gitlab.com/VinnyStalck/knowlogy/-/tree/cobblemon/main/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

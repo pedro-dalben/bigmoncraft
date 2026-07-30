@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "beautify-2.0.0+1.21.1.jar",
+    "sha256": "134da1a8e3841f0a14004e839bd1e0a9d091cc5769a82b0052cebda2804ac4fd",
+    "modId": "beautify",
+    "name": "Beautify",
+    "version": "2.0.0+1.21.1"
+  },
+  "authors": [
+    "Suel_ki"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 809311,
+    "fileId": 7553989,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated",
+    "repository": "https://github.com/Suel-ki/Beautify-Refabricated",
+    "license": "https://github.com/Suel-ki/Beautify-Refabricated/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

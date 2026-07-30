@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "Cobbreeding-fabric-2.2.2.jar",
+    "sha256": "6ef5d451535a5066ada4676d1782664f167cef9f0f7b8fcbc41471934a0a47db",
+    "modId": "cobbreeding",
+    "name": "Cobbreeding",
+    "version": "2.2.2"
+  },
+  "authors": [
+    "Ludichat",
+    "Fuzuki"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": null,
+    "fileId": null,
+    "allowModDistribution": null
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobbreeding",
+    "repository": "https://gitlab.com/ludichat/Cobbreeding",
+    "license": "https://gitlab.com/ludichat/Cobbreeding/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

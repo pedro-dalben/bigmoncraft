@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "BetterF3-11.0.3-Fabric-1.21.1.jar",
+    "sha256": "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad",
+    "modId": "betterf3",
+    "name": "BetterF3",
+    "version": "11.0.3"
+  },
+  "authors": [
+    "cominixo",
+    "TreyRuffy"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 401648,
+    "fileId": 5873256,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/betterf3",
+    "repository": "https://github.com/TreyRuffy/BetterF3.git",
+    "license": "https://github.com/TreyRuffy/BetterF3.git/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

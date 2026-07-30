@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "ironfurnacesfabric-1.21.1-1.0.0.jar",
+    "sha256": "ab0f653cd31ecf616eca7b9fb953d405687634c114d02ed913800aa99ed1d9e4",
+    "modId": "ironfurnaces",
+    "name": "Iron Furnaces",
+    "version": "1.21.1-1.0.0"
+  },
+  "authors": [
+    "Astryxion"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1506700,
+    "fileId": 7895524,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces-fabric-neoforge",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces-fabric-neoforge"
+  },
+  "license": {
+    "name": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "type": "PERMISSIVA",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

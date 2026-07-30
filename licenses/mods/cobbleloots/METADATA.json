@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cobbleloots-fabric-2.3.0.jar",
+    "sha256": "36a53bcec0880bf34f5240ac0d707579eecbe527a93cfa3e202f20d166c68c24",
+    "modId": "cobbleloots",
+    "name": "Cobbleloots: Loot Balls and More!",
+    "version": "2.3.0"
+  },
+  "authors": [
+    "RipioDev"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1037611,
+    "fileId": 7842374,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://resistorcat.github.io/cobbleloots/",
+    "repository": "https://github.com/ResistorCat/cobbleloots",
+    "license": "https://github.com/ResistorCat/cobbleloots/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

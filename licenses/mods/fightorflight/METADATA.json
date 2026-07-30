@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "fightorflight-fabric-0.10.9.jar",
+    "sha256": "7eee034d17281b43324cbdcc41a3836b6c44a93798d40a608538ed12a72279c1",
+    "modId": "fightorflight",
+    "name": "Cobblemon Fight or Flight Fabric",
+    "version": "0.10.9"
+  },
+  "authors": [
+    "rufia",
+    "LyquidQrystal"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1168140,
+    "fileId": 8404742,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://fabricmc.net/",
+    "repository": "https://github.com/FabricMC/fabric-example-mod",
+    "license": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

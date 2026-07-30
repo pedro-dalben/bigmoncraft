@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar",
+    "sha256": "6a77c69140f3da10e20b25ee8a75da039c5835b73f9c7a03615fbd968b574e5e",
+    "modId": "c2me",
+    "name": "Concurrent Chunk Management Engine",
+    "version": "0.4.0-alpha.0.23+1.21.1"
+  },
+  "authors": [
+    "RelativityMC",
+    "ishland"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 533097,
+    "fileId": 8480674,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/c2me-fabric",
+    "repository": "https://github.com/RelativityMC/C2ME-fabric",
+    "license": "https://github.com/RelativityMC/C2ME-fabric/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

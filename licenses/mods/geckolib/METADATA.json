@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "geckolib-fabric-1.21.1-4.9.2.jar",
+    "sha256": "eac4cf55e1cb99b22cb91ea87c774d2a670c1711a80f4aff50e6ad56b6c58e7e",
+    "modId": "geckolib",
+    "name": "GeckoLib 4",
+    "version": "4.9.2"
+  },
+  "authors": [
+    "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 388172,
+    "fileId": 8350058,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+    "repository": "https://github.com/bernie-g/geckolib",
+    "license": "https://github.com/bernie-g/geckolib/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "musicnotification-fabric-3.2.0+mc1.21.1.jar",
+    "sha256": "4d8d125c929c6c49b9d24b962de83c471337d8cb1bf71759399bd1f515e68692",
+    "modId": "musicnotification",
+    "name": "MusicNotification",
+    "version": "3.2.0"
+  },
+  "authors": [
+    "KosmoMoustache"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 817206,
+    "fileId": 8439928,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://mod.kosmo.ovh/",
+    "repository": "https://github.com/KosmoMoustache/MusicNotification",
+    "license": "https://github.com/KosmoMoustache/MusicNotification/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

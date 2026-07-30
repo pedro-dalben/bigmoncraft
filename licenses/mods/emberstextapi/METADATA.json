@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "emberstextapi-fabric-1.21.1-3.0.2.jar",
+    "sha256": "b505fe1e475ff750733890950302277032cfc7254da3ba02adaf351e8a6a74aa",
+    "modId": "emberstextapi",
+    "name": "Ember's Text API",
+    "version": "3.0.2"
+  },
+  "authors": [
+    "TysonTheEmber"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1345948,
+    "fileId": 8389402,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://tysontheember.dev",
+    "repository": "https://git.tysontheember.dev/TysonTheEmber/EmbersTextAPI",
+    "license": "https://git.tysontheember.dev/TysonTheEmber/EmbersTextAPI/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "TysonTheEmber Modding Licence",
+    "spdx": "TysonTheEmber-Custom",
+    "type": "CUSTOMIZADA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "CONDICIONAL",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "cobblerun-1.1.0.jar",
+    "sha256": "c00ba051ae56eae043fb8cf55d145349587bd6afda14c81be013d3327c0f85a2",
+    "modId": "cobblerun",
+    "name": "Cobblerun",
+    "version": "1.1.0"
+  },
+  "authors": [
+    "YourName"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1395351,
+    "fileId": 7279238,
+    "allowModDistribution": false
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblerun",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblerun"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "CONDICIONAL",
+    "curseForgeDistribution": "NÃO",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod com allowModDistribution=False no CurseForge metadata."
+  ],
+  "status": "REVISÃO_MANUAL_NECESSÁRIA"
+}

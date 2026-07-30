@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "rctmod-fabric-1.21.1-0.18.1-beta.jar",
+    "sha256": "92951d3be475a0433f8ef508439730723e2e901dd1e3b2509c29205031d4eb51",
+    "modId": "rctmod",
+    "name": "Radical Cobblemon Trainers",
+    "version": "0.18.1-beta"
+  },
+  "authors": [
+    "HDainester"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1009534,
+    "fileId": 7913182,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/rctmod",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/rctmod"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "sodium-fabric-0.8.12+mc1.21.1.jar",
+    "sha256": "9ad11a616d1ca759867de8a5bbafcde5ab50b68dbd674110c7b90aeea251b793",
+    "modId": "sodium",
+    "name": "Sodium",
+    "version": "0.8.12+mc1.21.1"
+  },
+  "authors": [
+    "JellySquid (jellysquid3)"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 394468,
+    "fileId": 8382327,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/CaffeineMC/sodium",
+    "repository": "https://github.com/CaffeineMC/sodium",
+    "license": "https://github.com/CaffeineMC/sodium/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "PolyForm Shield License 1.0.0",
+    "spdx": "PolyForm-Shield-1.0.0",
+    "type": "CUSTOMIZADA",
+    "version": "1.0.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "CONDICIONAL",
+    "multiplayerServer": "SIM",
+    "commercialServer": "CONDICIONAL",
+    "monetizedServer": "CONDICIONAL",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "PolyForm Shield proibe uso comercial concorrente."
+  ],
+  "status": "APROVADO"
+}

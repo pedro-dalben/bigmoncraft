@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "fancymenu_fabric_3.9.8_MC_1.21.1.jar",
+    "sha256": "19e5faf15a769ba4841815fb2320f1efc9f97ddffbc24c95299b6480b50af201",
+    "modId": "fancymenu",
+    "name": "FancyMenu",
+    "version": "3.9.8"
+  },
+  "authors": [
+    "Keksuccino"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 367706,
+    "fileId": 8440209,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/fancymenu"
+  },
+  "license": {
+    "name": "DON'T SNATCH MA STUFF LICENSE v3 (DSMSLv3)",
+    "spdx": "DSMSL-3.0",
+    "type": "CUSTOMIZADA",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "DSMSLv3 permite inclusao em modpacks via launcher oficial/CurseForge, proibe redistribuicao direta do JAR e modificacao."
+  ],
+  "status": "APROVADO"
+}

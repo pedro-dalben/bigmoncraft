@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "jei-1.21.1-fabric-19.27.0.336.jar",
+    "sha256": "1d47dab86cee6d68e0887ec5e14deee125d3e2ea92c5ecedbb57f8f60aafa709",
+    "modId": "jei",
+    "name": "Just Enough Items",
+    "version": "19.27.0.336"
+  },
+  "authors": [
+    "mezz"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 238222,
+    "fileId": 7391679,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/jei",
+    "repository": "https://github.com/mezz/JustEnoughItems",
+    "license": "https://github.com/mezz/JustEnoughItems/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

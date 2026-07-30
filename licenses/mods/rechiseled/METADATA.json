@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "rechiseled-1.2.5-fabric-mc1.21.jar",
+    "sha256": "165b3d15be0a874bb60ad6788ed41935a58c1d9a593dde5ba2d10b94370367c9",
+    "modId": "rechiseled",
+    "name": "Rechiseled",
+    "version": "1.2.5"
+  },
+  "authors": [
+    "SuperMartijn642"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 558998,
+    "fileId": 8301622,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/rechiseled",
+    "repository": "https://github.com/SuperMartijn642/Rechiseled",
+    "license": "https://github.com/SuperMartijn642/Rechiseled/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

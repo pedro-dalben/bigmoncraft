@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
+    "sha256": "f32ed8d825c7af90b14ab9f7bbe1293818bcf411fea104ae20d18ecde30f8387",
+    "modId": "scalablelux",
+    "name": "ScalableLux",
+    "version": "0.1.0.1+fabric.d0d58ab"
+  },
+  "authors": [
+    "Spottedleaf",
+    "ishland"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1055925,
+    "fileId": 6952368,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/scalablelux",
+    "repository": "https://github.com/RelativityMC/ScalableLux",
+    "license": "https://github.com/RelativityMC/ScalableLux/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

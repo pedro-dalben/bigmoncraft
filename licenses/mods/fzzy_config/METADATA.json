@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "fzzy_config-0.7.6+1.21.jar",
+    "sha256": "323dc065cc3aaeb7f908be7e5d31070a25d4188b433ed770a79700ef8f5e8f7d",
+    "modId": "fzzy_config",
+    "name": "Fzzy Config",
+    "version": "0.7.6+1.21"
+  },
+  "authors": [
+    "fzzyhmstrs"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1005914,
+    "fileId": 7568948,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+    "repository": "https://github.com/fzzyhmstrs/fconfig",
+    "license": "https://github.com/fzzyhmstrs/fconfig/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Timefall Development Licence - Modified 1.3",
+    "spdx": "Timefall-1.3",
+    "type": "CUSTOMIZADA",
+    "version": "1.3",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "CONDICIONAL",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

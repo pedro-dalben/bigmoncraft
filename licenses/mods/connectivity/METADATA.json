@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "connectivity-fabric-1.21-7.6.jar",
+    "sha256": "7abf008b1d8fb99a26a381f8998c3a12c4dad6506937c5289f78a4300dca132a",
+    "modId": "connectivity",
+    "name": "Connectivity Mod",
+    "version": "1.21-7.6"
+  },
+  "authors": [
+    "Someaddons"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 470193,
+    "fileId": 7366092,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/connectivity"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

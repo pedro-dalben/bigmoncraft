@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "konkrete_fabric_1.9.9_MC_1.21.jar",
+    "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+    "modId": "konkrete",
+    "name": "Konkrete",
+    "version": "1.9.9"
+  },
+  "authors": [
+    "Keksuccino"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 416797,
+    "fileId": 5430434,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric"
+  },
+  "license": {
+    "name": "Apache License 2.0",
+    "spdx": "Apache-2.0",
+    "type": "PERMISSIVA",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

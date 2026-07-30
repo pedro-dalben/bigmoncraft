@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "better-pokedex-scanner-1.0.0.jar",
+    "sha256": "aca37fa43fe9226cf99f75f194bf6cb9ec27d71dad1ae6c732d0791636231180",
+    "modId": "better_pokedex_scanner",
+    "name": "Better Pokédex Scanner",
+    "version": "1.0.0"
+  },
+  "authors": [
+    "Joshiki"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1514948,
+    "fileId": 7931023,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-better-pokedex-scanner",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-better-pokedex-scanner"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

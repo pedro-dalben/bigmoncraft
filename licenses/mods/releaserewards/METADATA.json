@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "releaserewards-fabric-3.0.2.jar",
+    "sha256": "30f57e31cc3ca5e84e043a72e1865edcfb4d84798a586a28f70cecac0cab6b3c",
+    "modId": "releaserewards",
+    "name": "Cobblemon: Parting Gifts",
+    "version": "3.0.2"
+  },
+  "authors": [
+    "Emperdog"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1169308,
+    "fileId": 8342147,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-release-rewards",
+    "repository": "https://github.com/anabsolutesloth/cobblemonreleaserewards",
+    "license": "https://github.com/anabsolutesloth/cobblemonreleaserewards/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

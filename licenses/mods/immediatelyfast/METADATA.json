@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
+    "sha256": "05a5f3c716ae631af3cc925c8144894368c632156f2d581dd8295cc223ea2f6d",
+    "modId": "immediatelyfast",
+    "name": "ImmediatelyFast",
+    "version": "1.6.11+1.21.1"
+  },
+  "authors": [
+    "RK_01"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 686911,
+    "fileId": 8348516,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/RaphiMC/ImmediatelyFast",
+    "repository": "https://github.com/RaphiMC/ImmediatelyFast",
+    "license": "https://github.com/RaphiMC/ImmediatelyFast/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

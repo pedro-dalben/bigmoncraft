@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cobblemonintegrations-fabric-1.21.1-1.1.6.jar",
+    "sha256": "d070f29970e39c77da578c05c762bbec093fe796b3ea82bafe79012df4268c12",
+    "modId": "cobblemonintegrations",
+    "name": "CobblemonIntegrations",
+    "version": "1.1.6"
+  },
+  "authors": [
+    "Arcaryx, 2ScoopsPlz"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 913400,
+    "fileId": 7673567,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-integrations",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-integrations"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "owo-lib-0.12.15.4+1.21.jar",
+    "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
+    "modId": "owo",
+    "name": "oωo",
+    "version": "0.12.15.4+1.21"
+  },
+  "authors": [
+    "glisco"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 532610,
+    "fileId": 6446006,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/owo-lib",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/owo-lib"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

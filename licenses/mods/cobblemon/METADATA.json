@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Cobblemon-fabric-1.7.3+1.21.1.jar",
+    "sha256": "f7c25955176badc444ad6211fc556514fedbdba776227f105fe899f8819d74e3",
+    "modId": "cobblemon",
+    "name": "Cobblemon",
+    "version": "1.7.3+1.21.1"
+  },
+  "authors": [
+    "The Cobblemon Team"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 687131,
+    "fileId": 7553235,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://cobblemon.com/",
+    "repository": "https://gitlab.com/cable-mc/cobblemon",
+    "license": "https://gitlab.com/cable-mc/cobblemon/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "type": "COPYLEFT",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

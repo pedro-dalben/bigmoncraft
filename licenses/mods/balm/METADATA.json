@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "balm-fabric-1.21.1-21.0.63.jar",
+    "sha256": "4c3604961b74e9cbc91efb1a93daa2f4e55354a46afc93cb74f0de543fd86391",
+    "modId": "balm",
+    "name": "Balm",
+    "version": "21.0.63"
+  },
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 500525,
+    "fileId": 8424819,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://balm.twelveiterations.com/",
+    "repository": "https://github.com/TwelveIterations/Balm",
+    "license": "https://github.com/TwelveIterations/Balm/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

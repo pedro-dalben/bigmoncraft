@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "sodium-extra-fabric-0.9.3+mc1.21.1.jar",
+    "sha256": "c99dfbfe2fe310aa43b322f784e3d314f574f85ba1c87dc932dbfa68f349bac1",
+    "modId": "sodium-extra",
+    "name": "Sodium Extra",
+    "version": "0.9.3+mc1.21.1"
+  },
+  "authors": [
+    "FlashyReese"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 447673,
+    "fileId": 8403578,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/sodium-extra",
+    "repository": "https://github.com/FlashyReese/sodium-extra-fabric",
+    "license": "https://github.com/FlashyReese/sodium-extra-fabric/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

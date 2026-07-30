@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Debugify-1.21.1+1.0.jar",
+    "sha256": "e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a",
+    "modId": "Debugify-1.21.1+1.0",
+    "name": "Debugify",
+    "version": "None"
+  },
+  "authors": [
+    "isXander"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 596224,
+    "fileId": 5691544,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/debugify",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/debugify"
+  },
+  "license": {
+    "name": "GPL-3.0",
+    "spdx": "GPL-3.0",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Upstream repo (GPL-3.0)",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

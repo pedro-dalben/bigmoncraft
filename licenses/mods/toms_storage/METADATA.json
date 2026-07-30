@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "toms_storage_fabric-1.21-2.4.1.jar",
+    "sha256": "9065f153d02dfb2356ee82a3c860d2e22fb7281a6062c5d1f90cde0bafc9b26a",
+    "modId": "toms_storage",
+    "name": "Tom's Simple Storage Mod",
+    "version": "2.4.1"
+  },
+  "authors": [
+    "tom5454"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 396826,
+    "fileId": 8501303,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric",
+    "repository": "https://github.com/tom5454/Toms-Storage/",
+    "license": "https://github.com/tom5454/Toms-Storage//blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

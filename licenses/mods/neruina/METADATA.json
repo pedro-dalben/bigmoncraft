@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "neruina-3.3.3+1.21.1-fabric.jar",
+    "sha256": "a3a49320128920256b43857e5254e5cd2a481417da61d0999a249aceb6125b20",
+    "modId": "neruina",
+    "name": "Neruina",
+    "version": "3.3.3"
+  },
+  "authors": [
+    "Bawnorton"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 851046,
+    "fileId": 8451082,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/Bawnorton/Neruina",
+    "repository": "https://github.com/Bawnorton/Neruina",
+    "license": "https://github.com/Bawnorton/Neruina/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

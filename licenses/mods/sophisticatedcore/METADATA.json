@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+    "sha256": "48e99847012a2319fa76b9ae9f277b675d6e60008a5e587c6b966126c092e914",
+    "modId": "sophisticatedcore",
+    "name": "Sophisticated Core",
+    "version": "1.21.1-1.2.9.21.168"
+  },
+  "authors": [
+    "P3pp3rF1y",
+    "Salandora"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 979317,
+    "fileId": 7344653,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core-unofficial-fabric-port",
+    "repository": "https://github.com/P3pp3rF1y/SophisticatedCore",
+    "license": "https://github.com/P3pp3rF1y/SophisticatedCore/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

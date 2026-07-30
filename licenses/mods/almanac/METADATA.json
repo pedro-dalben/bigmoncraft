@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Almanac-1.21.1-2-fabric-1.5.2.jar",
+    "sha256": "fe375dc91dc9d10071090b989f7296dbddc968feb7bb24cf3b92ef2aed217d93",
+    "modId": "almanac",
+    "name": "Almanac",
+    "version": "1.5.2"
+  },
+  "authors": [
+    "frikinjay"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1115285,
+    "fileId": 7489079,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://github.com/frikinjay/almanac",
+    "repository": "",
+    "license": "https://github.com/frikinjay/almanac"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

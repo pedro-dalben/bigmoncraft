@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cobblebattlerewards-2.0.7.1.jar",
+    "sha256": "9c99f046335540883676fec80dd6fb769110abae9017f644f0ea0a3146f4afb3",
+    "modId": "cobblebattlerewards",
+    "name": "CobbleBattleRewards",
+    "version": "2.0.7"
+  },
+  "authors": [
+    "Hysocs"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1275662,
+    "fileId": 8141147,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblebattlerewards",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblebattlerewards"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

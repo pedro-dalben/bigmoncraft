@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "lootr-fabric-1.21.1-1.11.37.122.jar",
+    "sha256": "545620a1ecdabe9a3c8e256ab6a239c3ceff16001185cca73cfcb6f41e7ace15",
+    "modId": "lootr",
+    "name": "Lootr",
+    "version": "1.21.1-1.11.37.122"
+  },
+  "authors": [
+    "Noobanidus",
+    "ZestyBlaze",
+    "embeddedt"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 615106,
+    "fileId": 8428026,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/lootr-fabric",
+    "repository": "https://github.com/noobanidus/Lootr/tree/fabric-1.19.4",
+    "license": "https://github.com/noobanidus/Lootr/tree/fabric-1.19.4/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "moreconcrete-fabric-1.6.0-1.21.1.jar",
+    "sha256": "3c1b788402a3d8355e450c4db70cdb1a912bbcf2cb7bfa7c1d89ca07c2670dab",
+    "modId": "moreconcrete",
+    "name": "More Concrete",
+    "version": "1.6.0-1.21.1"
+  },
+  "authors": [
+    "Autovw"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 545354,
+    "fileId": 6359254,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/more-concrete",
+    "repository": "https://github.com/Autovw/MoreConcrete",
+    "license": "https://github.com/Autovw/MoreConcrete/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

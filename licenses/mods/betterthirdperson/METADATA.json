@@ -1,0 +1,55 @@
+{
+  "artifact": {
+    "jar": "BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+    "sha256": "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457",
+    "modId": "betterthirdperson",
+    "name": "Better Third Person",
+    "version": "1.9.0"
+  },
+  "authors": [
+    "Socolio",
+    "DreenDex"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 435044,
+    "fileId": 5439141,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://injected.coffee/",
+    "repository": "",
+    "license": "https://injected.coffee/"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

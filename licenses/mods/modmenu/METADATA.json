@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "modmenu-11.0.4.jar",
+    "sha256": "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3",
+    "modId": "modmenu",
+    "name": "Mod Menu",
+    "version": "11.0.4"
+  },
+  "authors": [
+    "Prospector",
+    "haykam821",
+    "TerraformersMC"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 308702,
+    "fileId": 7808443,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://modrinth.com/mod/modmenu",
+    "repository": "https://github.com/TerraformersMC/ModMenu",
+    "license": "https://github.com/TerraformersMC/ModMenu/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cobblemon_spawn_alerts-fabric-1.13.2.jar",
+    "sha256": "35bd1cd3491922199c83fceff270949d38b88732b297e5a3a22d596031304010",
+    "modId": "cobblemon_spawn_alerts",
+    "name": "Cobblemon Spawn Alerts",
+    "version": "1.13.2"
+  },
+  "authors": [
+    "Stasis, the Shattered"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1295053,
+    "fileId": 7722424,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-alerts",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-alerts"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

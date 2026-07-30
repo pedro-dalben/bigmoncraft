@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Iceberg-1.21.1-fabric-1.3.2.jar",
+    "sha256": "9214790af6fb75c19ef6b95e0e47999addf018e8c7a1630a5118c4252e6d8d36",
+    "modId": "iceberg",
+    "name": "Iceberg",
+    "version": "1.3.2"
+  },
+  "authors": [
+    "Grend"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 539382,
+    "fileId": 6423860,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://anthonyhilyard.com/",
+    "repository": "https://github.com/AHilyard/Iceberg",
+    "license": "https://github.com/AHilyard/Iceberg/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Creative Commons CC-BY-NC-ND-4.0",
+    "spdx": "CC-BY-NC-ND-4.0",
+    "type": "CREATIVE_COMMONS",
+    "version": "4.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

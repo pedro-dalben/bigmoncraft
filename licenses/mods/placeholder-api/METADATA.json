@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "placeholder-api-2.4.2+1.21.jar",
+    "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+    "modId": "placeholder-api",
+    "name": "Placeholder API",
+    "version": "2.4.2+1.21"
+  },
+  "authors": [
+    "Patbox"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1037459,
+    "fileId": 6131327,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://pb4.eu",
+    "repository": "https://github.com/Patbox/TextPlaceholderAPI",
+    "license": "https://github.com/Patbox/TextPlaceholderAPI/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

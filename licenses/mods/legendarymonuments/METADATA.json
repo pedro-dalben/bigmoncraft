@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "legendarymonuments-fabric-1.21.1-8.0.3.jar",
+    "sha256": "f927d00711e5074fbb7d4adf6fe4f663b7fb378c10e782044c0b1924762ddbd4",
+    "modId": "legendarymonuments",
+    "name": "Legendary Monuments",
+    "version": "8.0.3"
+  },
+  "authors": [
+    "JorgaoMC"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1263645,
+    "fileId": 8352295,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://fabricmc.net/",
+    "repository": "https://github.com/FabricMC/fabric-example-mod",
+    "license": "https://github.com/FabricMC/fabric-example-mod/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Mozilla Public License 2.0",
+    "spdx": "MPL-2.0",
+    "type": "COPYLEFT",
+    "version": "2.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "NaturesCompass-1.21.1-2.6.0-fabric.jar",
+    "sha256": "ca49039369a0d8a9b8ab0a9e03e838c8ac1a5c7724756ec42762c54e80ed87a3",
+    "modId": "naturescompass",
+    "name": "Nature's Compass",
+    "version": "1.21.1-2.6.0-fabric"
+  },
+  "authors": [
+    "ChaosTheDude"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 252848,
+    "fileId": 7892952,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+    "repository": "https://github.com/MattCzyr/NaturesCompass",
+    "license": "https://github.com/MattCzyr/NaturesCompass/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Creative Commons CC-BY-NC-SA-4.0",
+    "spdx": "CC-BY-NC-SA-4.0",
+    "type": "CREATIVE_COMMONS",
+    "version": "4.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

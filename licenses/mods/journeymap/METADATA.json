@@ -1,0 +1,56 @@
+{
+  "artifact": {
+    "jar": "journeymap-fabric-1.21.1-6.0.2.jar",
+    "sha256": "026fb1735e3f5afbecf9026398e33358c1dd844fae4398b76c997e173cbc6ef7",
+    "modId": "journeymap",
+    "name": "Journeymap",
+    "version": "1.21.1-6.0.2"
+  },
+  "authors": [
+    "Mysticdrew",
+    "Techbrew",
+    "MemeSapiens"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 32274,
+    "fileId": 8523099,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "http://journeymap.info",
+    "repository": "",
+    "license": "http://journeymap.info"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

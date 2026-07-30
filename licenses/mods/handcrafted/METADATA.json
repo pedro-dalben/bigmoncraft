@@ -1,0 +1,53 @@
+{
+  "artifact": {
+    "jar": "handcrafted-fabric-1.21.1-4.0.3.jar",
+    "sha256": "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230",
+    "modId": "handcrafted",
+    "name": "Handcrafted",
+    "version": "4.0.3"
+  },
+  "authors": [
+    "Alex Nijjar",
+    "Kekie6"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 538214,
+    "fileId": 6330032,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/handcrafted",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/handcrafted"
+  },
+  "license": {
+    "name": "Terrarium Licence",
+    "spdx": "Terrarium-1.0",
+    "type": "CUSTOMIZADA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "CONDICIONAL",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

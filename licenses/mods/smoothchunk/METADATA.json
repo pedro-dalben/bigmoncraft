@@ -1,0 +1,54 @@
+{
+  "artifact": {
+    "jar": "smoothchunk-fabric-1.21-4.1.jar",
+    "sha256": "d2e4ebd40dc3805d2dd055019b253524ae216ad141818c198b5fabcc75013f40",
+    "modId": "smoothchunk",
+    "name": "Smooth chunk save Mod",
+    "version": "1.21-4.1"
+  },
+  "authors": [
+    "Someaddons"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 582327,
+    "fileId": 6296632,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save"
+  },
+  "license": {
+    "name": "All Rights Reserved",
+    "spdx": "ARR",
+    "type": "ARR",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "NÃO",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "CONDICIONAL",
+    "includeLicense": "CONDICIONAL",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [
+    "Mod ARR com permissao de distribuicao ativada no CurseForge via CurseForge Modpack Manifest."
+  ],
+  "status": "APROVADO"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "Ping-Wheel-1.12.2-fabric-1.21.1.jar",
+    "sha256": "9ba63ca5f33c86d0ce3aec2b04fafcc2fbcb8e705e46a7be20ff66382331c3e3",
+    "modId": "pingwheel",
+    "name": "Ping Wheel",
+    "version": "1.12.2"
+  },
+  "authors": [
+    "Luken"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 734339,
+    "fileId": 7996933,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/ping-wheel",
+    "repository": "https://github.com/LukenSkyne/Minecraft-Ping-Wheel",
+    "license": "https://github.com/LukenSkyne/Minecraft-Ping-Wheel/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

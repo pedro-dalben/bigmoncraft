@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "timcore-fabric-1.7.3-1.32.0.jar",
+    "sha256": "8daaf896de6bc2ee0c097ff24659d248d800a31d7a8373c93a9790d2afb48d1d",
+    "modId": "tim_core",
+    "name": "Tim Core",
+    "version": "1.7.3-fabric-1.32.0"
+  },
+  "authors": [
+    "timinc aka Timothy Metcalfe"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1295910,
+    "fileId": 7938282,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://discord.com/invite/WKAR27SdSv",
+    "repository": "https://github.com/timinc-cobble/cobblemon-tim-core",
+    "license": "https://github.com/timinc-cobble/cobblemon-tim-core/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

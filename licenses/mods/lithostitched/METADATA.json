@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "lithostitched-1.7.13-fabric-21.1.jar",
+    "sha256": "206c086604bcfea5b2862e90069470352cbf4b4d7088b55cdfa8f3452bedc270",
+    "modId": "lithostitched",
+    "name": "Lithostitched",
+    "version": "1.7.13"
+  },
+  "authors": [
+    "Apollo"
+  ],
+  "environment": "both",
+  "curseforge": {
+    "projectId": 936015,
+    "fileId": 8378496,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/lithostitched"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

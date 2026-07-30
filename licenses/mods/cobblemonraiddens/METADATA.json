@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "cobblemonraiddens-fabric-0.11.4+1.21.1.jar",
+    "sha256": "7dd22ce0009202b398a87465fb2b503c284dfae142552b928a4656a75a0a888c",
+    "modId": "cobblemonraiddens",
+    "name": "Cobblemon Raid Dens",
+    "version": "0.11.4+1.21.1"
+  },
+  "authors": [
+    "NecroSo1"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1349231,
+    "fileId": 8479429,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/cobblemonraiddens",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/cobblemonraiddens"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

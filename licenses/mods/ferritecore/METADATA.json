@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "ferritecore-7.0.3-fabric.jar",
+    "sha256": "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2",
+    "modId": "ferritecore",
+    "name": "FerriteCore",
+    "version": "7.0.3"
+  },
+  "authors": [
+    "malte0811"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 459857,
+    "fileId": 7524152,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric",
+    "repository": "",
+    "license": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric"
+  },
+  "license": {
+    "name": "MIT License",
+    "spdx": "MIT",
+    "type": "PERMISSIVA",
+    "version": "1.0",
+    "source": "Metadata fabric.mod.json / JAR embedded",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

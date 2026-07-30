@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "pokeblocks-1.5.0-1.21.1.jar",
+    "sha256": "0cd1ce19b16efe7477cfd4501d1ee3e7c575af113e72ac2ed0f540740eb6a43c",
+    "modId": "pokeblocks",
+    "name": "Pokeblocks",
+    "version": "1.5.0-1.21.1"
+  },
+  "authors": [
+    "MrShawn"
+  ],
+  "environment": "*",
+  "curseforge": {
+    "projectId": 1078431,
+    "fileId": 7866584,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://discord.gg/BnnDnBc33T",
+    "repository": "https://github.com/Shawn11564/Pokeblocks",
+    "license": "https://github.com/Shawn11564/Pokeblocks/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "Creative Commons CC-BY-NC-4.0",
+    "spdx": "CC-BY-NC-4.0",
+    "type": "CREATIVE_COMMONS",
+    "version": "4.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": true,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "NÃO"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "NÃO",
+    "sameLicense": "NÃO",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}

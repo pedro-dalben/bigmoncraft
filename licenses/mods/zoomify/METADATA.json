@@ -1,0 +1,52 @@
+{
+  "artifact": {
+    "jar": "zoomify-2.15.2+1.21.1.jar",
+    "sha256": "6c317987df28922e227ab3ac4e39090460d99b965bcb9c8da8f9a4493b705d00",
+    "modId": "zoomify",
+    "name": "Zoomify",
+    "version": "2.15.2+1.21.1"
+  },
+  "authors": [
+    "isXander"
+  ],
+  "environment": "client",
+  "curseforge": {
+    "projectId": 574741,
+    "fileId": 7591960,
+    "allowModDistribution": true
+  },
+  "links": {
+    "project": "https://isxander.dev",
+    "repository": "https://github.com/isXander/Zoomify",
+    "license": "https://github.com/isXander/Zoomify/blob/main/LICENSE"
+  },
+  "license": {
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx": "LGPL-3.0-only",
+    "type": "COPYLEFT",
+    "version": "3.0",
+    "source": "Metadata fabric.mod.json",
+    "foundInJar": false,
+    "confidence": "ALTA"
+  },
+  "permissions": {
+    "publicModpack": "SIM",
+    "curseForgeDistribution": "SIM",
+    "jarRedistribution": "SIM",
+    "multiplayerServer": "SIM",
+    "commercialServer": "SIM",
+    "monetizedServer": "SIM",
+    "modification": "SIM"
+  },
+  "obligations": {
+    "attribution": "SIM",
+    "includeLicense": "SIM",
+    "includeNotice": "CONDICIONAL",
+    "publishSource": "SIM",
+    "sameLicense": "SIM",
+    "writtenPermission": "NÃO"
+  },
+  "evidence": [],
+  "notes": [],
+  "status": "APROVADO"
+}
