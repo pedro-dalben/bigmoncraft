@@ -1,0 +1,3 @@
+# Requirements for tools/license_audit.py
+# Python standard library (>=3.9) is fully supported natively.
+python>=3.9
