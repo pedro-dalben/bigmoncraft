@@ -1,7 +1,7 @@
 [Trainers]
 	#━━━━━━━━━━
 	#Determines if symbols for trainer types are shown next to trainer names.
-	showTrainerTypeSymbols = true
+	showTrainerTypeSymbols = false
 	#━━━━━━━━━━
 	#Determines if trainer names are colored based of their type.
 	showTrainerTypeColors = true
