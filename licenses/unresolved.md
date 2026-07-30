@@ -2,7 +2,7 @@
 
 Este documento lista todos os mods do **BigMonCraft: Cobblemon Pack** que possuem restrições de distribuição, licenças ARR com `allowModDistribution=false`, ou que exigem atenção e revisão antes do lançamento público no CurseForge.
 
-Data da auditoria: 2026-07-30 12:40:46
+Data da auditoria: 2026-07-30 12:41:27
 Total de itens listados: 7
 
 ---
