@@ -1,4 +1,5 @@
 [
   {"version":1},
+  {"ingredient":{"id":"cobblemon:pasture"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"botanypots:terracotta_botany_pot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

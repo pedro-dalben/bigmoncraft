@@ -205,7 +205,17 @@ defaultResourcePacks = [
     "cobblemon_knowlogy:cobblemon", 
     "knowlogy:1.21.0_tricky_trials", 
     "cobblemon:gyaradosjump", 
-    "cobbreeding:pasturefix"
+    "cobbreeding:pasturefix", 
+    "file/Cobblemon Interface v1.6.0.zip", 
+    "file/Cobblemon Interface Modded v1.9.4.zip", 
+    "file/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip", 
+    "file/Cobblemon 3D Poké Rods 1.0.zip", 
+    "file/CCC_2.1.zip", 
+    "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip", 
+    "file/RCT Trainer Animation_0.2.1beta.zip", 
+    "file/RCT Trainers+ [1.6] v2.1.zip", 
+    "file/E19 Cobblemon Minimap Icons.zip", 
+    "file/Maxi's-JM+CM_Pixel-U11.zip"
 ]
 
 # Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
