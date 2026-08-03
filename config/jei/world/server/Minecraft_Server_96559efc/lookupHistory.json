@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:quartz_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"chipped:layed_quartz_block_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:pasture"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"botanypots:terracotta_botany_pot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

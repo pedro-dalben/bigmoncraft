@@ -77,14 +77,6 @@
     "curseForgeHash": 1972524094,
     "modrinthHash": "e6a6596688e23ca00e69249c26e316541a086ca2"
   },
-  "balm-fabric-1.21.1-21.0.64.jar": {
-    "jarName": "balm-fabric-1.21.1-21.0.64.jar",
-    "modId": "balm",
-    "name": "Balm",
-    "version": "21.0.64",
-    "curseForgeHash": 2440071282,
-    "modrinthHash": "6ad223aa4de7bc343b21e4992e8c01eb86199e28"
-  },
   "beautify-2.0.0+1.21.1.jar": {
     "jarName": "beautify-2.0.0+1.21.1.jar",
     "modId": "beautify",
@@ -116,14 +108,6 @@
     "version": "1.9.0",
     "curseForgeHash": 3974272920,
     "modrinthHash": "ea0dd2747e5d52d1b64dd29498e59602e79d9b69"
-  },
-  "bigmoncraft-0.1.0.jar": {
-    "jarName": "bigmoncraft-0.1.0.jar",
-    "modId": "bigmoncraft",
-    "name": "BigMonCraft",
-    "version": "0.1.0",
-    "curseForgeHash": 2801953963,
-    "modrinthHash": "0c5cc6e1ee629bca551faa5ff11848cde1f231c4"
   },
   "bookshelf-fabric-1.21.1-21.1.81.jar": {
     "jarName": "bookshelf-fabric-1.21.1-21.1.81.jar",
@@ -173,13 +157,13 @@
     "curseForgeHash": 4271459838,
     "modrinthHash": "af0a1cf8ad03421cb3e5522db432b5c224317309"
   },
-  "catchindicator-fabric-1.8.2.jar": {
-    "jarName": "catchindicator-fabric-1.8.2.jar",
+  "catchindicator-fabric-1.8.1.jar": {
+    "jarName": "catchindicator-fabric-1.8.1.jar",
     "modId": "catchindicator",
     "name": "Catch Indicator",
-    "version": "1.8.2",
-    "curseForgeHash": 345976788,
-    "modrinthHash": "83260a29bf96e227861f20c629c81c4669d9ba43"
+    "version": "1.8.1",
+    "curseForgeHash": 1468358893,
+    "modrinthHash": "72632d607d8410b67fb016c952fc2a1e2da637f0"
   },
   "catchrate-display-fabric-2.8.23.jar": {
     "jarName": "catchrate-display-fabric-2.8.23.jar",
@@ -581,6 +565,14 @@
     "curseForgeHash": 1382600585,
     "modrinthHash": "e4e125088d8654f91562e78a00bdec22f74bc07f"
   },
+  "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar": {
+    "jarName": "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
+    "modId": "inventoryprofilesnext",
+    "name": "Inventory Profiles Next",
+    "version": "2.2.6",
+    "curseForgeHash": 3123169493,
+    "modrinthHash": "a99471cb13f2c3c355ab3a61483580ccfa0d3693"
+  },
   "iris-fabric-1.8.14-beta.1+mc1.21.1.jar": {
     "jarName": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
     "modId": "iris",
@@ -941,14 +933,6 @@
     "curseForgeHash": 2482273182,
     "modrinthHash": "6af9009c55280b9b9a2bd4a93dbf2454b70288c7"
   },
-  "Radical Gyms  Structures - RGS.jar": {
-    "jarName": "Radical Gyms  Structures - RGS.jar",
-    "modId": "rgs",
-    "name": "Radical Gyms \u0026 Structures - RGS",
-    "version": "1.21",
-    "curseForgeHash": 1109978975,
-    "modrinthHash": "4466492a22f2370d7b47b8e0ea6aa12977099595"
-  },
   "rctapi-fabric-1.21.1-0.15.2-beta.jar": {
     "jarName": "rctapi-fabric-1.21.1-0.15.2-beta.jar",
     "modId": "rctapi",
@@ -1165,13 +1149,13 @@
     "curseForgeHash": 2713618646,
     "modrinthHash": "101515616e310c671f04b89d0908857ebc55bf53"
   },
-  "waystones-fabric-1.21.1-21.1.39.jar": {
-    "jarName": "waystones-fabric-1.21.1-21.1.39.jar",
+  "waystones-fabric-1.21.1-21.1.38.jar": {
+    "jarName": "waystones-fabric-1.21.1-21.1.38.jar",
     "modId": "waystones",
     "name": "Waystones",
-    "version": "21.1.39",
-    "curseForgeHash": 791183027,
-    "modrinthHash": "e44b68b195533b6f84229253e77c0f71c53a5414"
+    "version": "21.1.38",
+    "curseForgeHash": 1327119364,
+    "modrinthHash": "734b48d1fec5b1733814e6873fe1e925defa9474"
   },
   "wild_battle_api-fabric-1.1.2.jar": {
     "jarName": "wild_battle_api-fabric-1.1.2.jar",

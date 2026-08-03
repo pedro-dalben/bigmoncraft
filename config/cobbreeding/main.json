@@ -34,8 +34,8 @@
     "whiscash_nero",
     "wooper_heart"
   ],
-  "maxNumberOfActivatedPasturePerPlayer": -1,
-  "pastureInventorySize": 3,
+  "maxNumberOfActivatedPasturePerPlayer": 5,
+  "pastureInventorySize": 6,
   "eggEncryptionEnabled": false,
   "cobblemonSizeVariationsCompatEnabled": true
 }

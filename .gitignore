@@ -20,3 +20,24 @@
 
 # Allow .gitignore itself
 !.gitignore
+config/bigbangessentials/*
+config/bigbangregions/*
+config/bigbang_tournaments/*
+config/bigbang-minigames/*
+config/cobbleverse-utilities/*
+config/cobbleverse-pvp/*
+config/easyvip/*
+config/worldedit/*
+config/luckperms/*
+config/cobbleverse-back.json
+config/cobbleverse-cooldowns.json
+config/cobbleverse-utilities.json
+config/bigbangworld/*
+config/chunky/*
+config/easylogin/*
+config/fabric/*
+config/Icl/*
+config/jade/*
+config/jei/*
+config/spark/*
+config/jade/usernamecache.json

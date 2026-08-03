@@ -1,6 +1,6 @@
 {
-  "tick_per_minute": 1200,
-  "drop_chance_per_minute": 0.05,
+  "tick_per_minute": 1800,
+  "drop_chance_per_minute": 0.02,
   "item_blacklist": [
     "minecraft:porkchop",
     "minecraft:beef",
@@ -37,5 +37,5 @@
     "cobblemon:sharp_beak",
     "cobblemon:tasty_tail"
   ],
-  "legacy_flatten_item_quantity": false
+  "flatten_item_quantity": false
 }

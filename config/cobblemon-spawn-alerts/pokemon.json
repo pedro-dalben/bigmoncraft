@@ -7,13 +7,13 @@
   ],
   "pokemonConfigs": {
     "default (You can modify anything BELOW this, but dont delete it!)": {
-      "enabled": true,
-      "alwaysAlert": true,
-      "alertShiny": true,
-      "alertHiddenAbility": true,
-      "alertDespawned": true,
-      "showLegendary": true,
-      "showBucket": true,
+      "enabled": false,
+      "alwaysAlert": false,
+      "alertShiny": false,
+      "alertHiddenAbility": false,
+      "alertDespawned": false,
+      "showLegendary": false,
+      "showBucket": false,
       "statDisplayModes": {
         "level": "MAIN_MESSAGE",
         "dex": "HOVER",
