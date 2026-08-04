@@ -37,5 +37,5 @@
     "cobblemon:sharp_beak",
     "cobblemon:tasty_tail"
   ],
-  "flatten_item_quantity": false
+  "legacy_flatten_item_quantity": false
 }

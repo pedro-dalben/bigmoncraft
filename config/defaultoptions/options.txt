@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:0.5
 graphicsMode:1
 guiScale:2
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","cobblemon_knowlogy:cobblemonpokenav","cobblemon_knowlogy:cobblemon_1.7","knowlogy:1.0.0_minecraft","cobblemon:regionbiasforms","cobblemon_knowlogy:cobblemon","knowlogy:1.21.0_tricky_trials","cobblemon:gyaradosjump","cobbreeding:pasturefix","file/Cobblemon Interface v1.6.0.zip","file/Cobblemon Interface Modded v1.9.4.zip","file/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip","file/Cobblemon 3D Poké Rods 1.0.zip","file/CCC_2.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/RCT Trainer Animation_0.2.1beta.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/E19 Cobblemon Minimap Icons.zip","file/Maxi\u0027s-JM+CM_Pixel-U11.zip"]
+resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","file/RCT Trainers+ [1.6] v2.1.zip","file/RCT Trainer Animation_0.2.1beta.zip","$polymer-resources","black_icons","classic_icons","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","cobblemon_knowlogy:cobblemon","cobblemon_knowlogy:cobblemon_1.7","cobblemon_knowlogy:cobblemonpokenav","cobblemon_knowlogy:pokepedia","cobbreeding:coloredeggs","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/Cobblemon 3D Poké Rods 1.0.zip","file/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip","file/Cobblemon Interface Modded v1.9.4.zip","file/E19 Cobblemon Minimap Icons.zip","file/FreshAnimations_v1.10.4.zip","file/Fully Hisuian Starters 1.1.1.zip","file/Maxi\u0027s-JM+CM_Pixel-U11.zip","knowlogy:1.0.0_minecraft","knowlogy:1.21.0_tricky_trials","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","knowlogy:tutorial"]
 incompatibleResourcePacks:["appleskin","badoptimizations","balm","bookshelf","botanypots","carved_wood","cobbleloots","cobblemon_knowlogy","comforts","configurable","connectivity","constructionwand","controlling","defaultoptions","enchdesc","fancymenu","jade","jei","knowlogy","konkrete","legendarymonuments","modernfix","neruina","netherportalfix","polymorph","regions_unexplored","searchables","smoothchunk","sophisticatedbackpacks","sophisticatedcore","sophisticatedstorage","spark","spectrelib","talkingheads","toms_storage","waystones","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
